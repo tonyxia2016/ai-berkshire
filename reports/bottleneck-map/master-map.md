@@ -1,6 +1,6 @@
 # 供应链瓶颈总地图（持续更新）
 
-最后更新：2026-05-26 14:11（第十轮扫描）
+最后更新：2026-05-26 15:26（第十一轮扫描）
 
 ---
 
@@ -95,7 +95,9 @@
 
 **相关公司**：AXT Inc (AXTI，纳斯达克，S级主标的但估值极高), Sumitomo Electric (5802，东交所), Freiberger（未上市）
 
-**来源**：[新浪财经磷化铟断供危机](https://finance.sina.cn/stock/jdts/2026-05-08/detail-inhxcyyr4274198.d.html) | [华尔街见闻](https://www.fxbaogao.com/detail/5416292)
+**【2026-05-26 15:26 跨趋势延伸】太空经济激光终端需求**：Pentagon SDA LEO卫星星座（PWSA）使用InP基激光器作为卫星间链路（ISL）；4家合格供应商中Mynaric已被Rocket Lab以$155M收购（2026-04-14）；SDA确认供应链"远远不足"。此需求与数据中心EML/CW激光器竞争同一InP衬底+MOCVD产能，是对S级瓶颈的第三条下游需求验证（AI数据中心+超大规模云+军用卫星）。
+
+**来源**：[新浪财经磷化铟断供危机](https://finance.sina.cn/stock/jdts/2026-05-08/detail-inhxcyyr4274198.d.html) | [华尔街见闻](https://www.fxbaogao.com/detail/5416292) | [SpaceNews光学终端瓶颈](https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/) | [RKLB收购Mynaric](https://www.globenewswire.com/news-release/2026/04/14/3273899/0/en/Rocket-Lab-Completes-Mynaric-Acquisition-Adding-Laser-Optical-Communications-To-Growing-Space-Systems-Portfolio.html)
 
 ---
 
@@ -317,6 +319,29 @@
 **核心数据**：核电重启面临核级焊工、检测师严重短缺；SMR供应链仍在建立  
 **注意**：劳动力瓶颈不易直接投资；长期趋势，短期催化剂不明确
 
+### 14. 镓(Ga)/锗(Ge) — 出口管制11月2026截止 【2026-05-26 15:26 新增，B级前瞻预警】
+**核心数据**：
+- 2024年12月：中国正式禁止向美出口镓、锗、锑、超硬材料
+- 2025年11月：双方暂停禁令至**2026-11-27**（出口许可证管理；军事最终用户禁令持续）
+- **中国占全球镓产量99%**（2024年），无西方短期替代来源
+- 应用场景：GaN（氮化镓）→ EV功率芯片、5G RF、数据中心电源转换；GaAs（砷化镓）→ RF前端、光器件
+- 截止日期到来前：出口受许可证管理，GaN/GaAs采购受影响但未断供
+- 截止日期届满后若重启禁令：供应链中断风险极高
+
+**瓶颈判定（若禁令重启）**：
+- 供给集中🔴（99%中国）
+- 扩产周期🔴（镓是铝冶炼副产品，需协同大幅增产铝才能增加副产品镓）
+- 替代难度🟡（GaN可部分被SiC替代，但转换成本高；GaAs在RF暂无替代）
+= **B级（当前，前瞻）**；若禁令重启 → A级
+
+**当前评级**：**B级前瞻**（现状：许可证管理，非断供；风险时间窗口：2026-11-27）
+
+**监控计划**：每月检查中美贸易谈判进展；接近2026-09起提升监控频率；若重启迹象升至A级
+
+**可投资标的**：目前无西方上市纯正镓供应商（主要通过铝冶炼副产品获得）；间接受益于替代路线：SiC（Wolfspeed/WOLF，但当前亏损不追踪）
+
+**来源**：[FastMarkets中国暂停禁令](https://www.fastmarkets.com/insights/china-suspends-export-prohibition-on-superhard-materials-us/) | [Tom's Hardware Ga/Ge出口暂停](https://www.tomshardware.com/tech-industry/china-suspends-ban-on-rare-earth-exports-to-us-but-licensing-remains) | [Compound Semiconductor News](https://compoundsemiconductor.net/article/122926/China_suspends_US_export_ban_on_Ga_and_Ge_and_Sb)
+
 ---
 
 ## 已解除/降级的瓶颈
@@ -375,3 +400,7 @@
 | 2026-05-26 14:11 | **Almonty状态确认** | Sangdong Phase 1正式完成（Yahoo Finance/StockTitan公告），从commissioning进入正式完成阶段；Phase 2（4600吨/年）为下一里程碑 |
 | 2026-05-26 14:11 | **UAMY $27M DoW DPA追加** | DPA Title III $27M独立奖项确认（与$248M DLA合同独立）：$16.2M已拨款，Q1 $12.8M里程碑已执行；政府资金来源更多元 |
 | 2026-05-26 14:11 | **CHG股价更新** | Chemring 554p（+4.3% vs上次记录531p）；分析师目标633p；June 9财报倒计时14天 |
+| 2026-05-26 15:26 | **InP S级跨趋势延伸** | 太空经济激光终端（SDA PWSA）使用InP基激光器竞争同一产能；Rocket Lab $155M收购Mynaric；AI数据中心+超大规模云+军用卫星三重需求 |
+| 2026-05-26 15:26 | **新增 B级前瞻预警** | 镓(Ga)出口管制11月2026截止（条目14新增）：中国暂停出口禁令至2026-11-27，届时若重启，GaN/GaAs供应链断供；中国占全球镓产量99%；暂无纯正可投资标的 |
+| 2026-05-26 15:26 | **Nittobo重大价格事件** | 5月20日收盘¥21,090（低于目标入场区间¥22,000）；从ATH ¥32,900回撤约36%；已反弹至约¥25,310；watchlist目标入场区间已被触及 |
+| 2026-05-26 15:26 | **CHG Tennessee确认解决** | AGM声明Tennessee中断"largely resolved"；FY26覆盖率升至85%；June 9财报倒计时13天 |
