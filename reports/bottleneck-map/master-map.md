@@ -1,6 +1,6 @@
 # 供应链瓶颈总地图（持续更新）
 
-最后更新：2026-05-27 第二十八轮扫描（Almonty钼矿SeAH M&S细节补录：SeAH系SpaceX承包商，钼矿年地板价收入$234M；WF6/NF3/InP/变压器/Chemring/Centrus/稀土等全部瓶颈状态确认不变；无新可投资标的；不生成报告文件）
+最后更新：2026-05-27 第二十九轮扫描（全面扫描五大超级趋势，无新信号：WF6临界1-2个月不变、Chemring June 2财报无预告、InP/EML/T-glass/Aixtron/HALEU/钨/锑/稀土全部已跟踪状态确认；无新可投资标的；不生成报告文件）
 
 ---
 
@@ -511,3 +511,4 @@
 | 2026-05-27 17:06 | **第二十六轮扫描 — TNT瓶颈新维度 + UAMY漏录里程碑** | ①**TNT瓶颈（国防9条目扩展）**：欧洲单一来源确认——Nitro-Chem（PGZ旗下，波兰）是EU唯一主要TNT生产商；Swebal€30M私有融资（2026-05-07）建瑞典首厂（2028），但均非上市可投标的；TNT与NC完全独立（炸药填充 vs 推进剂），NATO能量材料整体脆弱进一步确认，间接强化Chemring护城河；评级B+级新维度；②**UAMY漏录里程碑（watchlist更新）**：2026年2月Americas Gold JV（49%/51%水冶合资，北美首个商业级锑水冶）+ Q1 Radersburg选矿厂收购（$4.8M）两项Q1里程碑此前扫描遗漏，现补录；③Almonty AII.TO C$27.55（微涨），Phase 2投票June 8-9确认；Centrus DOE续约约30天倒计时无新公告；所有S/A/B级瓶颈状态不变。生成报告文件：17-06-信号扫描.md |
 | 2026-05-27 晚 | **第二十七轮扫描 — 无新独立信号，AES背景信号补录** | 扫描覆盖：WF6/NF3临界时间线、Chemring June 2财报前信号、Nittobo/ABF、Almonty Phase 2投票倒计时、Centrus DOE续约、InP/EML、钨/锑/稀土等全部已跟踪方向。**无新信号（过去1-2小时无突破事件）**。补录一项背景信号：**AES Accurate Energetic Systems爆炸（2025-10-10，Tennessee）**——16人死亡，Building 602（唯一铸装引爆装置生产建筑）摧毁，$270M+联邦合同暂停，无重建时间线；TOSHA $3M罚款+$150M诉讼进行中；此前扫描从未记录，补录至条目9国防弹药链；无可投资标的；间接为美国军工能量材料链第三压力点验证。其余状态确认：CHG June 2（6天）催化剂维持；WF6库存耗尽1-2个月临界不变；Almonty Phase 2 June 8-9不变；Centrus DOE续约34天倒计时无新公告；Nittobo ¥25,310-25,890仍高于入场目标区间；钨APT国际价$3,050-3,185/MTU（一致）；所有S/A/B级评级不变。**不生成报告文件**。 |
 | 2026-05-27 第二十八轮扫描 | **细节补录，无新信号，无报告文件** | 覆盖全部五大超级趋势：WF6/NF3临界状态（6-7月，已跟踪）、InP/EML（Digitimes 5/27确认Lumentum-Aixtron MOCVD订单，同一5/19新闻第二来源，非新信号）、变压器（Bloomberg/PwC"5年"系4月旧数据，pv-magazine 5/11的4年仍最新）、Chemring June 2无预告（确认）、Centrus DOE续约无新公告（距6/30约33天）、稀土钇（Trump-Xi峰会"表示关切"无约束性承诺，已记录）、镓/锗（11/27截止无变化）。**新细节补录（Almonty钼矿条目）**：SeAH M&S是SpaceX承包商（此前未记录）；钼矿年收入在地板价$19/lb × 5,600吨满产 = **$234M/年地板价收入**（首次量化）；60年矿山寿命offtake价值$14B+。不影响Almonty ★★评级或June 9 Phase 2投票为关键催化剂的判断。全部S/A/B级瓶颈状态不变。 |
+| 2026-05-27 第二十九轮扫描 | **全面扫描，无新信号，无报告文件** | 覆盖五大超级趋势全部搜索方向（英文+中文）。扫描结果：①WF6临界1-2个月状态确认不变（TrendForce/Central Glass双源已记录）；②Chemring June 2财报无新预告，仅确认AGM January 2026更新为最新公开信息；③InP衬底shortage持续，IntelliEPI CEO Q1 ER"InP shortage is a bottleneck for the entire AI infrastructure"为额外行业来源佐证（非新信号）；④Nittobo T-glass供应紧张确认，扩产2027年H2才落地（已记录）；⑤Almonty June 9 Phase 2投票确认（三重催化剂：Phase 2投票+首批产量数据+新CFO）；⑥Centrus DOE Phase III 6/30到期，8年期选项已存在但DOE尚未宣布行使，无新公告；⑦Ga/Ge/Sb出口禁令暂停确认至2026-11-27；⑧稀土0.1%规则（10月2025管制）暂停确认至2026-11-10（已在0c2条目记录）；⑨Chemring Nobel EU ASAP €66.7M资助为2024/2025旧信息，已知背景；⑩国防弹药链NC缺口>50%、TNT欧洲单一来源——均已跟踪。全部S/A/B级瓶颈状态不变。**无新可投资标的。不生成报告文件。** |

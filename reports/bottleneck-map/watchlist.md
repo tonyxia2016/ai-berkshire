@@ -1,8 +1,8 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-27 第二十八轮扫描（Almonty钼矿SeAH M&S细节补录：SeAH系SpaceX承包商，$234M/年地板价收入量化；各watchlist标的评级无变化）
+最后更新：2026-05-27 第二十九轮扫描（全面扫描无新信号；Chemring June 2财报无预告；各watchlist标的评级无变化）
 
-下次复查：**June 2 Chemring半年财报**（6天后，最紧迫）；**本周核实Kanto Denka FY2027指引原始公告**（高优先级）；June 8-9 Almonty Phase 2投票+Sangdong Q2数据；Centrus DOE续约（June 30到期，约34天）；WF6中断新闻（6-7月临界期，距今约1个月）
+下次复查：**June 2 Chemring半年财报**（**5天后**，最紧迫）；**本周核实Kanto Denka FY2027指引原始公告**（高优先级）；June 8-9 Almonty Phase 2投票+Sangdong Q2数据；Centrus DOE续约（June 30到期，约33天）；WF6中断新闻（6-7月临界期，距今约1个月）
 
 ---
 
