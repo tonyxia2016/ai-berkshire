@@ -304,8 +304,9 @@
 ### 7. 晶圆级探针卡（Probe Card）
 **核心数据**：FormFactor Q1 2026收入$226M（+32% YoY），DRAM收入+70%；管理层称2026年产能满产；HBM4被定为"重大拐点"  
 **估值警告**（2026-05-25）：FORM市值~$4B，P/E 208x，是历史中位数5倍，不在买入区间  
+**【2026-06-13数据修正】**：实际市值$10.15B（StockAnalysis确认），PS 10.6x（$10.15B/$960M）。入场目标$121（PS<10x，市值~$9.6B）。2030 Analyst Day目标$1.6B/$5 EPS；在25x PE下4年回报为负，35-40x PE下4年约8-12%。★★★★等$121回调。  
 **竞争变化**：Technoprobe赢得TSMC 2nm 30%份额，FormFactor市场份额受压  
-**主要供应商**：FormFactor (FORM，~$40亿，A级主标的但估值偏高), Cohu (COHU), Japan Electronic Materials, Technoprobe (意大利，未上市)
+**主要供应商**：FormFactor (FORM，~$10B市值，A级主标的，★★★★，等$121入场), Cohu (COHU), Japan Electronic Materials, Technoprobe (意大利，未上市)
 
 **来源**：[FORM Q1 2026记录营收](https://www.stocktitan.net/news/FORM/form-factor-inc-reports-2026-first-quarter-ptznafssjeh9.html)
 
@@ -2835,4 +2836,18 @@ PwC/PV Magazine（2026-05）：美国变压器交期延至4年（历史最长）
 | 2026-06-13 23:55 | **InP激光器 — 供应放松预警** | **⚠️ 新增风险因子（IQE/5706.T/VECO）** | LightCounting 4月2026月报：InP供需缺口30%，但"shortages going away by end of 2026"；新产能已完成大部分认证。**与行业一手信源直接冲突**：Lumentum"fully allocated 32 months"（至2028-10）、Coherent 4地6英寸产线建设中、Nvidia $40亿锁定。**调和解释**：LightCounting可能描述整体市场平均缺口收窄，而锁定效应使Nvidia生态圈外客户仍受限。对IQE/5706.T/VECO是主要持续风险——等IQE H1 2026中报（8-9月）实际出货量验证哪种叙事正确。评级不变，风险因子登记。 |
 | 2026-06-13 23:55 | **FormFactor（FORM）** | **探针卡GM 50.5%（+1270bps）新增量化记录** | Q1 FY2026探针卡分部毛利率50.5%，vs Q1 FY2025的37.8%，+1270bps。是定价权已量化实现的硬数据（前次扫描仅记录收入/EPS，未量化毛利率）。50.5%毛利率属于设备行业领先水平。★★★★维持，Q2（7月底）确认趋势→升★★★★★。 |
 | 2026-06-13 23:55 | **HPS.A — 调整后EPS数据修正** | **数据修正（基本EPS vs 调整后EPS）** | 前次（23:00）仅记录基本净利润-25.4%。补充：**调整后EPS $2.08 vs $1.99（+4.5% YoY）**；毛利率30.1%较Q4 2025的29.2%**环比改善+90bps**，说明关税价格传导正在起效。基本EPS下降反映一次性项目，调整后口径更准确反映经营趋势。★★★维持，Q2财报7/30是关键验证点。 |
+
+---
+
+### 扫描日志 — 2026-06-13 23:59（日终补充扫描）
+
+**本轮核心发现（5个增量信号，无新标的，FORM市值数据修正）**：
+
+| 时间 | 标的/主题 | 变化 | 摘要 |
+|------|---------|------|------|
+| 2026-06-13 23:59 | **FormFactor（FORM）市值修正** | **数据修正（不影响评级）** | 23:00扫描错误估计"$4.5B"。实际市值**$10.15B**（StockAnalysis 2026-06-13），PS 10.6x。watchlist的PS-based分析始终正确（入场目标$121/PS<10x）。2030 Analyst Day目标（$1.6B/$5 EPS）在25x PE下4年回报为负，35-40x PE下4年回报8-12%。★★★★维持，等$121回调。 |
+| 2026-06-13 23:59 | **Sumitomo Electric（5802.T）** | **EML前三大确认，不入watchlist** | TrendForce 2026-06-04：Broadcom+Lumentum+Sumitomo Electric = 55%全球EML/CW-DFB市场。Sumitomo Electric为年营收¥4-5万亿大型集团，EML占比<10%，不满足30%纯正性门槛。仅作为"已知EML第三极"参照记录。 |
+| 2026-06-13 23:59 | **Nittobo玻纤布（3110.T）** | **新增交叉验证** | ABF基板独立分析明确点名Nittobo高端玻纤布"交期noticeably lengthened"；ABF H2 2026价格涨幅预计加速（double-digit）。Ajinomoto ABF薄膜拟涨价30%。交叉验证+1，★★★★强化，T-16天（6/29除权）临近。 |
+| 2026-06-13 23:59 | **関東電化（4047.T）** | **利润+47.1%确认** | FY2026 Q3精密化学品部门常规利润+47.1%（收入仅+4.9%），确认NF₃/WF₆定价传导成功，经营杠杆显现。★★★维持，T-17天7/1 WF₆停产是下一升级节点。 |
+| 2026-06-13 23:59 | **Samsung HBM4认证延迟** | **中性偏正（FORM相关）** | Samsung HBM4热量/功耗测试失败，完整认证延至2026年底；SK Hynix 57%份额（Q3 2025）；Micron 100%产能售罄仅满足50-65%需求。更多失败=更多测试循环=探针卡需求偏正面。不改变FORM★★★★入场策略。 |
 
