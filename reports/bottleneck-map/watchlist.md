@@ -5509,3 +5509,20 @@ Kanto Denka Kogyo 7/1永久停止WF6生产，**投资论点核心为NF3，而非
 | 其余 | 无变化 | — | — |
 
 *来源：Goldman Sachs报告（Co-Tech HVLP4）/ Digitimes 2026-06-09、2026-06-11（NVIDIA接洽/Co-Tech）/ StockAnalysis 8358.TWO（PE 14.86x）/ TechTimes 2026-05-27（1,500MT缺口）/ SEC/StockTitan 2026-06（LEU指引）/ Investing.com 2026-06-17（3110.T ¥19,460）/ Bloomberg 2026-06-16（ICL船运积压）*
+
+
+## 状态快照（2026-06-17 15:00）
+
+| 标的 | 代码 | 评级 | 变化 | 关键状态 |
+|------|------|------|------|---------|
+| **Centrus Energy** | LEU | ★★★★★ | 无变化 | AGM明日（6/18）；Option 1b T-13（6/30）；$3.9B积压 |
+| **Kanto Denka** | 4047.T | ★★★★ | 无变化 | WF6停产T-13（7/1）；NF3日本90%份额 |
+| **ICL Group** | ICL | ★★★★ | 无变化 | Geneva签约T-2（6/19）；Q1+14%/EBITDA $1.5-1.7B |
+| **Nittobo** | 3110.T | ★★★★ | 无变化 | 5:1拆股T-12（6/29）；¥19,460；ATH-41% |
+| **Co-Tech** | 8358.TWO | ★★★★ | 无变化 | PE 14.86x/PS 2.12x；HVLP4唯一认证第二来源；等Q1/Q2财报 |
+| **Iljin Electric** | 103590.KS | ★★★ | 无变化 | 变压器积压$1B+；PS 1.52x/PEG 0.34x；等Q2财报 |
+| **ALM** | ALM | ★★ | 无变化 | Russell纳入T-12（6/29）；估值红灯维持 |
+| **Foosung** | 093370.KS | ★★ | 无变化 | 红灯（PE 108x，亏损）；等Q2财报(8/18) |
+| **BaTiO3 Layer 3** | — | 🚫关闭 | **本轮关闭** | Sakai(4078.T)净利-45%/无定价权；Nippon Chemical(4092.T)数据不足；17家全球竞争者证伪垄断假设 |
+
+*来源：Investing.com/StockAnalysis 2026-06-17（Sakai Chemical、Nippon Chemical财务数据）/ Tom's Hardware 2026（数据中心延误）/ PV Magazine 2026-05-11（变压器交期36-48月）*
