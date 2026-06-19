@@ -5800,3 +5800,27 @@ Kanto Denka Kogyo 7/1永久停止WF6生产，**投资论点核心为NF3，而非
 | **L3Harris Missile Solutions** | 待IPO★ | 无变化（DPA加持） | H2 2026 IPO；DoD $1B已交割；SRM纯标的候补 |
 
 *来源：Washington Times 2026-06-18（DPA援引）；US News 2026-06-16（DPA援引）；Breaking Defense 2026-01（SRM crunch）；SpaceNews 2026-01-13（L3Harris $1B投资）；Digitimes 2026-05-13（ABF +30%）；Stockopedia（CHG.L 533p/市值£1.46B）*
+
+## 状态快照（2026-06-19 00:05 — 第240轮扫描）
+
+> **本轮无新信号**。覆盖五大超级趋势全部方向（AI基础设施/能源转型/国防现代化/半导体再工业化/太空经济），搜索过去4小时（2026-06-18 20:00后）无新突破。已验证现存信号全部与第239轮结论一致：① WF6 7/1永久停产进入T-12天倒计时（4047.T ★★★★★ 论据维持）；② ICL Group 72h监察窗口至6/20到期，溴价$3,476/MT未破$2,800红线；③ LEU Option 1b 6/30到期T-11天（DOE合同结构再确认）；④ DPA第708条/Chemring H1/ABF涨价/ALM降级均已在前轮入库，无增量变化。不生成新报告文件。
+
+| 标的 | 代码 | 评级 | 变化 | 关键状态 |
+|------|------|------|------|---------|
+| **关東電化** | 4047.T | ★★★★★（最紧迫） | 无变化 | **7/1永久停产 T-12天**；竞对25%全球WF6产能蒸发；论据维持强化 |
+| **Centrus Energy** | LEU | ★★★★★ | 无变化 | **6/30 Option 1b T-11天**；DOE合同结构确认（Phase III + 最长8年续约选项） |
+| **ICL Group** | ICL | ★★★★ | ⚠️ 72h监察进行中 | 溴价$3,476/MT未破$2,800红线；**6/20是监察到期节点**；Hormuz通航进展持续跟踪 |
+| **Chemring** | CHG.L | ★★★★ | 无变化 | H1 FY2026已入库（Countermeasures订单+486%，订单簿£1.4B新高）；DPA论据继续验证 |
+| **Nittobo** | 3110.T | ★★★★ | 无变化 | 5:1拆股6/29记录日/7/1有效日 T-10天；不追高 |
+| **Yageo** | 2327.TW | ★★★★ | 无变化 | Q2财报7月；5月NT$15.058B历史新高 |
+| **IQE** | IQE.L | ★★★★ | 无变化 | Tower多年InP协议6/15已签；等8月H1财报 |
+| **GMT** | 8081.TW | ★★★ | 无变化 | PMIC A级；PE 12x/PS 2.6x绿灯；Q2财报7-8月 |
+| **Foosung** | 093370.KS | ★★★ | 无变化 | WF6 7/1停产受益候选；PE 241.6x/PS 4.03x/+196% YTD；等Q2财报验证利润转化 |
+| **Iljin Electric** | 103590.KS | ★★★ | 无变化 | 变压器36-48月交期；等Q2财报 |
+| **Helix Exploration** | HEX.L / HHEXF | ★★ | 无变化 | 氦气S级（Qatar T+3个月+修复3-5年）；等offtake签约 |
+| **ALM Almonty** | ALM | ★★ | 无变化 | 市值$5.19B触红灯；Russell 1000纳入6/29；10年退出年化9.7% |
+| **AXT Inc** | AXTI | ★★ | 无变化 | 等Q2财报（7月下旬） |
+| **uPI Semiconductor** | 6719.TW | ★★★（初始） | 无变化 | 估值核查待完成 |
+| **L3Harris Missile Solutions** | 待IPO | 无变化 | DPA加持；H2 2026 IPO；SRM纯标的候补 |
+
+*来源（本轮验证信源）：TrendForce 2026-06-12（WF6停产确认）；US News 2026-06-16（DPA援引）；Yahoo Finance 2026-06-17（Centrus合同结构）；Moomoo 2026-06-（WF6价格+200%）*
