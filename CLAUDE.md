@@ -77,17 +77,12 @@ reports/{公司名}/
 
 ## 报告语言与风格
 
-- **语言自动检测**：根据 `$ARGUMENTS` 判断——如果参数中包含任何中文字符则全报告使用中文，纯ASCII/英文参数则全报告使用英文。示例：
-  - `/investment-research 英特尔` → 中文报告
-  - `/investment-research Intel` → English report
-  - `/investment-team 阿里巴巴` → 中文报告
-  - `/investment-team Alibaba` → English report
-  - 文件夹名和文件名也跟随语言：英文报告用 `Intel/Intel-investment-research-20260623.md`，中文报告用 `英特尔-四大师综合分析-20260623.md`
-- 风格：直接、犀利、不说废话（English: direct, sharp, no fluff）
+- 所有报告使用**中文**
+- 风格：直接、犀利、不说废话
 - 数据必须标注来源，关键数据至少2个来源交叉验证
-- 估计值必须注明"估计"（English: "estimated"）
+- 估计值必须注明"估计"
 - 评分使用★符号（★1-5），不含半星
-- 穿插巴菲特/芒格/段永平/李录的语录点评（English: use quotes from Buffett/Munger/Duan Yongping/Li Lu）
+- 穿插巴菲特/芒格/段永平/李录的语录点评
 
 ## GitHub 操作
 
