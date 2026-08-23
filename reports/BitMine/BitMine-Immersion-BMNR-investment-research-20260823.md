@@ -75,6 +75,7 @@ BMNR 已不是传统比特币矿企。它更像一个**没有申购赎回机制�
 | 数据 | 截止时点 | 可靠性 |
 |---|---|---|
 | BMNR 收盘价 22.83 美元 | 2026-08-21 | 高；StockAnalysis／S&P 与 Morningstar 均一致 |
+| ETH 2,391.36；BTC 77,806.60 | 2026-08-21 日线收盘口径 | 中高；Investing 历史行情，用于主估值时间同步 |
 | ETH 2,466.54；BTC 77,494.12 | 2026-08-23 22:11–22:12 CST | 高；Coinbase API |
 | ETH 2,459.67；BTC 77,450 | 2026-08-23 22:22–22:23 CST | 高；CoinGecko API；与 Coinbase 偏差小于 0.3% |
 | 公司最新持仓 | 2026-08-16 21:30 ET | 中高；官方 8-K 附件，但未经审计且仅 furnished |
@@ -83,7 +84,7 @@ BMNR 已不是传统比特币矿企。它更像一个**没有申购赎回机制�
 | 独立估算股本约 599.83m | 2026-08-17 | 中；显示回购期间仍有净发行 |
 | 582,426,394 反事实情景 | 2026-08-16 | 低；错误地假设 7 月 9 日后没有任何新发行 |
 
-市场价格来源：[StockAnalysis 历史行情](https://stockanalysis.com/stocks/bmnr/history/)、[Morningstar](https://lt.morningstar.com/1c6qh1t6k9/stockreport/default.aspx?ClientFund=0&CurrencyId=GBP&Id=0P000007QU&SecurityToken=0P000007QU%5D3%5D0%5DE0EXG%24XNYS&tab=7)。数字资产来源：[Coinbase ETH ticker](https://api.exchange.coinbase.com/products/ETH-USD/ticker)、[Coinbase BTC ticker](https://api.exchange.coinbase.com/products/BTC-USD/ticker)、[CoinGecko API](https://api.coingecko.com/api/v3/simple/price?ids=ethereum%2Cbitcoin&vs_currencies=usd&include_last_updated_at=true)。
+市场价格来源：[StockAnalysis 历史行情](https://stockanalysis.com/stocks/bmnr/history/)、[Morningstar](https://lt.morningstar.com/1c6qh1t6k9/stockreport/default.aspx?ClientFund=0&CurrencyId=GBP&Id=0P000007QU&SecurityToken=0P000007QU%5D3%5D0%5DE0EXG%24XNYS&tab=7)。同步日线币价来源：[Investing ETH 历史行情](https://www.investing.com/crypto/ethereum/historical-data)、[Investing BTC 历史行情](https://www.investing.com/crypto/bitcoin/historical-data)。报告日数字资产快照来源：[Coinbase ETH ticker](https://api.exchange.coinbase.com/products/ETH-USD/ticker)、[Coinbase BTC ticker](https://api.exchange.coinbase.com/products/BTC-USD/ticker)、[CoinGecko API](https://api.coingecko.com/api/v3/simple/price?ids=ethereum%2Cbitcoin&vs_currencies=usd&include_last_updated_at=true)。
 
 独立股本估算来自 [BMNR Analytics 周报](https://bmnr.rocks/blog/2026-08-17-bmnr-hits-582m-eth-at-0956x-mnav-week-of-aug-17)；FT／S&P 与 Fox 当期数据也约为 599m–600m。它们都不是 SEC 硬数，因此估值仍同时保留 603.226m 上限口径。
 
@@ -173,6 +174,19 @@ Ethereum 官方页面显示全网约 41.54m ETH 已质押、约占供应 33%，�
 | SBET／BTBT／BTCS 等 DAT | ETH + 各自运营 | 多数有 | 同样存在 mNAV 与融资循环 | 做同业相对价值者 |
 
 [iShares ETHA 官方页面](https://www.ishares.com/us/products/337614/ishares-ethereum-trust-etf)列示 sponsor fee 0.25%。BMNR 仅 Q3 G&A 年化加 BMNP 年分红，已相当于当前普通股 NAV 的约 1.27%，还未计未来亏损、税或资金机会成本。
+
+### 同业估值快照
+
+同业只能作粗略 sanity check：各家公司对 ETH、现金、负债、质押流动性和非加密业务的披露口径不同，不能把下面的小数点当成精确相对价值。
+
+| 公司 | 8 月 21 日粗略资产倍数 | 主要口径差异 |
+|---|---:|---|
+| BMNR | 0.980–0.985x EV／披露总持仓 | 规模最大；含现金、BTC 与非核心投资；有 BMNP |
+| SharpLink（SBET） | 约 0.78x EV／ETH | 888,938 ETH；含 liquid staking／DeFi 风险 |
+| BTCS | 约 0.89x EV／ETH | 规模较小，业务与资本结构不同 |
+| Bit Digital（BTBT） | 约 2.34x EV／ETH | 含 HPC 等运营资产，最不可直接比较 |
+
+[SharpLink 8 月 10 日官方业绩稿](https://www.globenewswire.com/news-release/2026/08/10/3341731/0/en/sharplink-reports-second-quarter-2026-financial-and-operating-results-builds-momentum-for-a-new-ethereum-era.html)披露截至 8 月 3 日持有 888,938 ETH。粗略倍数显示 SBET 比 BMNR 便宜约 20 个百分点，至少说明 BMNR 当前不是同类中显而易见的折价孤岛；但 SBET 的资产可用性与风险结构也更复杂。
 
 ## 财务质量
 
@@ -298,7 +312,7 @@ Ethereum 官方页面显示全网约 41.54m ETH 已质押、约占供应 33%，�
 - options 0.359m；
 - 未归属 time RSUs 1.097m；performance RSUs 4.500m。
 
-潜在新增合计 19.265m，约为硬股本的 3.19%。其中部分远价外或未达标，不能全部计入基础股本；但在“不计行权现金”的完全稀释压力测试中，每股 NAV 约降至 22.99 美元，当前股价已接近 0.99 倍 NAV。
+潜在新增合计 19.265m，约为硬股本的 3.19%。其中部分远价外或未达标，不能全部计入基础股本；但在“不计行权现金”的完全稀释压力测试中，8 月 21 日同步 NAV／股约降至 22.29–22.41 美元，当前股价相当于 1.019–1.024 倍 NAV。周末币价口径的 22.99–23.12 美元／股仅是非交易时段指示值。
 
 ### 衍生品与非核心资产
 
@@ -351,40 +365,50 @@ GAAP 利润几乎是 ETH 公允价值变化；传统 PE 会把资产涨跌误认
 DCF 也不稳健：质押收益取决于 ETH 价格和协议 APR，且资产本金本身占绝大部分价值。下面采用：
 
 1. 同步披露 NAV；
-2. 当前价格重估 NAV；
+2. 同日价格重估 NAV；
 3. ETH 价格敏感性；
 4. 质押剩余收益 sanity check；
 5. 反向估值。
 
-### 当前价格重估 NAV
+### 8 月 21 日同日 NAV
 
-输入：5,815,164 ETH × 2,466.54；210 BTC × 77,494.12；其余资产沿用 8 月 16 日公司值；负债沿用 5 月 31 日；BMNP 按最低清算优先权扣减。
+为避免用周五股票收盘价对周末币价制造虚假折价，主估值把 8 月 21 日 BMNR 收盘价 22.83 美元与同日 ETH 2,391.36 美元、BTC 77,806.60 美元同步。持仓量沿用 8 月 16 日公司披露；其他资产沿用公司值；负债沿用 5 月 31 日；BMNP 按最低清算优先权扣减。
 
 | NAV bridge | 金额 |
 |---|---:|
-| ETH | 14,343.335m |
-| BTC | 16.274m |
+| ETH | 13,906.151m |
+| BTC | 16.339m |
 | 现金及有价证券 | 78.000m |
 | Beast Industries | 180.000m |
 | Eightco | 73.000m |
-| 总资产／持仓 | **14,690.608m** |
+| 总资产／持仓 | **14,253.490m** |
 | 减：最近报表负债 | -30.128m |
 | 减：BMNP 最低清算优先权 | -350.000m |
-| 普通股 NAV | **14,310.480m** |
+| 普通股 NAV | **13,873.362m** |
 
 | 股本口径 | 股数 | NAV／股 | 22.83 美元对应 mNAV |
 |---|---:|---:|---:|
-| SEC 7 月 9 日硬数 | 603.226m | 23.72 | 0.96x |
-| 无新发行的回购情景 | 582.426m | 24.57 | 0.93x |
-| 全部潜在证券压力口径 | 622.491m | 22.99 | 0.99x |
+| 8 月 17 日独立推算 | 599.830m | 23.13 | 0.987x |
+| SEC 7 月 9 日硬数 | 603.226m | 23.00 | 0.993x |
+| 全部潜在证券压力口径 | 619.095–622.491m | 22.29–22.41 | 1.019–1.024x |
 
-敏感性：若 Beast 与 Eightco 各 haircut 50%，NAV／股约 23.51–24.35；若完全归零，约 23.30–24.14。当前价格仍只是小幅折价。
+因此，基础股本下 BMNR 只是约 0.7%–1.3% 的微小折价；把所有权证、期权和 RSU 毛额计入后，已是约 1.9%–2.4% 的溢价。考虑股本时点误差、未审计持仓和负债滞后，经济结论应是**接近 NAV 平价**，不是有意义的安全边际。
 
-该估值没有计入潜在出售税、staking 解锁延迟、8 月 16 日后的持仓变化、7 月 9 日后的新增发行或最新负债，因此置信度为中。
+### 8 月 23 日周末币价指示
+
+截至报告日，Coinbase／CoinGecko 交叉价格约为 ETH 2,460–2,467 美元、BTC 77,450–77,494 美元。按其中 Coinbase 快照重估，普通股 NAV 为 14,310.480m 美元：
+
+| 股本口径 | NAV／股 | 22.83 美元对应 mNAV |
+|---|---:|---:|
+| 599.830m | 23.86 | 0.957x |
+| 603.226m | 23.72 | 0.962x |
+| 619.095–622.491m | 22.99–23.12 | 0.988–0.993x |
+
+这是周末指示值，BMNR 当时不能交易，不能替代同日估值。若将 Beast 与 Eightco 各 haircut 50%，基础股本 NAV／股约 23.51–23.65；若完全归零，约 23.30–23.44。估值还没有计入潜在出售税、staking 解锁延迟、8 月 16 日后的持仓变化及最新负债，因此置信度为中。
 
 ### 同步披露检验
 
-公司 8 月 16 日按 ETH 1,893 美元披露总持仓约 11.4bn。扣 BMNP 350m 与 5 月末负债 30.128m，普通股 NAV 约 11.020bn，即每股 18.27–18.92 美元。8 月 17 日收盘价 18.73 美元对应 **0.99–1.03 倍 NAV**。
+公司 8 月 16 日按 ETH 1,893 美元披露总持仓约 11.4bn。扣 BMNP 350m 与 5 月末负债 30.128m，普通股 NAV 约 11.020bn，即每股 18.27–18.37 美元。8 月 17 日收盘价 18.73 美元对应 **1.02–1.03 倍 NAV**。
 
 此后到 8 月 21 日，BMNR 上涨 21.9%；而 ETH 从公告价到 8 月 23 日上涨约 30.3%。当前 headline 折价主要反映 ETH 在周末继续上涨，并非市场遗漏了一个静态的 10%–20%资产折价。
 
@@ -392,13 +416,13 @@ DCF 也不稳健：质押收益取决于 ETH 价格和协议 APR，且资产本�
 
 其他资产、BTC 价格、负债和股本保持不变：
 
-| ETH 价格 | NAV／股（603.226m） | NAV／股（582.426m） | 当前价／NAV 范围 |
+| ETH 价格 | NAV／股（603.226m） | NAV／股（599.830m） | 当前价／NAV 范围 |
 |---:|---:|---:|---:|
-| 1,200 | 11.51 | 11.92 | 1.91–1.98x |
-| 1,800 | 17.30 | 17.92 | 1.27–1.32x |
-| 2,466.54 | 23.72 | 24.57 | 0.93–0.96x |
-| 3,000 | 28.87 | 29.90 | 0.76–0.79x |
-| 4,000 | 38.51 | 39.88 | 0.57–0.59x |
+| 1,200 | 11.51 | 11.58 | 1.97–1.98x |
+| 1,800 | 17.30 | 17.40 | 1.31–1.32x |
+| 2,466.54 | 23.72 | 23.86 | 0.957–0.962x |
+| 3,000 | 28.87 | 29.03 | 0.786–0.791x |
+| 4,000 | 38.51 | 38.72 | 0.590–0.593x |
 
 每股 NAV 对 ETH 极敏感；“BMNR 便宜”常常等价于“未来 ETH 会更贵”。这不是巴菲特式可预测现金流安全边际。
 
@@ -408,9 +432,9 @@ DCF 也不稳健：质押收益取决于 ETH 价格和协议 APR，且资产本�
 
 | 情景 | ETH | mNAV | 隐含 BMNR 价格 | 需要发生什么 |
 |---|---:|---:|---:|---|
-| 乐观 | 4,000 | 1.10x | 42.36–43.87 | ETH 大涨；MAVAN 被验证；资本市场溢价恢复 |
-| 中性 | 2,466.54 | 0.85x | 20.16–20.88 | ETH 横盘；治理与费用维持折价 |
-| 悲观 | 1,200 | 0.65x | 7.48–7.75 | ETH 下跌；mNAV 收缩；融资飞轮反转 |
+| 乐观 | 4,000 | 1.10x | 42.36–42.60 | ETH 大涨；MAVAN 被验证；资本市场溢价恢复 |
+| 中性 | 2,391.36 | 0.85x | 19.55–19.66 | ETH 横盘；治理与费用维持折价 |
+| 悲观 | 1,200 | 0.65x | 7.48–7.53 | ETH 下跌；mNAV 收缩；融资飞轮反转 |
 
 真正风险是 ETH 与 mNAV 同时下降，而非只看一种变量。
 
@@ -430,27 +454,27 @@ DCF 也不稳健：质押收益取决于 ETH 价格和协议 APR，且资产本�
 
 在其他资产不变时，当前 22.83 美元隐含的 ETH 价格：
 
-| 目标 mNAV | SEC 硬股本 | 回购情景股本 | 含义 |
+| 目标 mNAV | SEC 硬股本 | 独立推算股本 | 含义 |
 |---:|---:|---:|---|
-| 1.00x | 2,373.88 | 2,292.22 | 当前价大致是 ETH 现价附近的净资产平价 |
-| 0.85x | 2,791.81 | 2,695.74 | 要获得 15%结构折价，ETH 需先升至该区间 |
-| 0.65x | 3,649.08 | 3,523.45 | 要在当前股价获得 35%安全边际，ETH 需大幅上涨 |
+| 1.00x | 2,373.87 | 2,360.54 | 当前价大致是 ETH 同日价格附近的净资产平价 |
+| 0.85x | 2,791.79 | 2,776.11 | 要获得 15%结构折价，ETH 需先升至该区间 |
+| 0.65x | 3,649.07 | 3,628.56 | 要在当前股价获得 35%安全边际，ETH 需大幅上涨 |
 
 换言之，当前价格没有提供独立于 ETH 看多判断的安全垫。
 
 ### 动态行动区间
 
-以下价格仅对应 2026-08-23 的保守 NAV／股 23.72 美元；ETH 或股本变化后必须重算。
+以下价格对应 8 月 21 日同步口径的保守 NAV／股 23.00 美元；ETH 或股本变化后必须重算。
 
 | 股价区间 | 当前 NAV 倍数 | 行动 |
 |---|---:|---|
-| < 11.86 | <0.50x | 可启动深度复核；仍须确认托管、股本和控制修复 |
-| 11.86–15.42 | 0.50–0.65x | 仅适合认可 ETH 的小型特殊情景仓位 |
-| 15.42–20.16 | 0.65–0.85x | 观察／已有仓位审查，不追涨 |
-| 20.16–24.91 | 0.85–1.05x | **价值投资者不新买；当前 22.83 在此区间** |
-| > 24.91 | >1.05x | 若 MAVAN 未证明外部价值，减持／回避 |
+| < 11.50 | <0.50x | 可启动深度复核；仍须确认托管、股本和控制修复 |
+| 11.50–14.95 | 0.50–0.65x | 仅适合认可 ETH 的小型特殊情景仓位 |
+| 14.95–19.55 | 0.65–0.85x | 观察／已有仓位审查，不追涨 |
+| 19.55–24.15 | 0.85–1.05x | **价值投资者不新买；当前 22.83 在此区间** |
+| > 24.15 | >1.05x | 若 MAVAN 未证明外部价值，减持／回避 |
 
-这不是“跌到 11.86 就自动买入”。BMNR 的买点必须同时满足折价、每股 ETH 增长、股本清晰和治理改善。
+这不是“跌到 11.50 就自动买入”。BMNR 的买点必须同时满足折价、每股 ETH 增长、股本清晰和治理改善。
 
 ## 四位投资者视角
 
@@ -512,7 +536,7 @@ BMNR 是一个持有高流动性 ETH、却无 ETF 申购赎回机制的高成本
 
 BMNR 的真实优点不是护城河，而是**规模、流动性、融资能力和 ETH 原生收益**。真实缺点也不是“它持有加密资产”这么简单，而是普通股股东要穿过**优先股、长期费用、潜在稀释、衍生品、无赎回结构和较弱内部控制**才能取得剩余价值。
 
-当前 22.83 美元约为 0.93–0.96 倍 headline NAV；在同步口径或潜在稀释口径下接近 1.0 倍。这个价格没有为上述结构性风险付出足够折价。
+当前 22.83 美元在 8 月 21 日同步口径下约为 0.987–0.993 倍 headline NAV；全部潜在证券毛额口径为 1.019–1.024 倍。8 月 23 日周末币价对应的 0.957–0.962 倍只是非交易时段指示值。这个价格没有为上述结构性风险付出足够折价。
 
 **最终评级：回避／观察。** 只有当相对保守 NAV 折价达到 35%–50%、ETH／完全稀释股持续上升、MAVAN 出现可核验第三方收入、且内部控制得到审计验证后，投资论文才值得升级。
 
@@ -539,9 +563,10 @@ AI 能高置信确认“BMNR 现在拥有什么、资本结构是什么、报表
 - [Ethereum staking](https://ethereum.org/staking/)、[withdrawals](https://ethereum.org/staking/withdrawals/)、[DVT 风险](https://ethereum.org/staking/dvt/)
 - [iShares ETHA](https://www.ishares.com/us/products/337614/ishares-ethereum-trust-etf)
 - [CoinGecko ETH treasury tracker](https://www.coingecko.com/en/treasuries/ethereum/companies)
+- [SharpLink 2026 Q2 业绩与持仓](https://www.globenewswire.com/news-release/2026/08/10/3341731/0/en/sharplink-reports-second-quarter-2026-financial-and-operating-results-builds-momentum-for-a-new-ethereum-era.html)及 [SBET](https://stockanalysis.com/stocks/sbet/statistics/)、[BTCS](https://stockanalysis.com/stocks/btcs/statistics/)、[BTBT](https://stockanalysis.com/stocks/btbt/statistics/)统计页
 - [SEC 2026 crypto interpretation](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets)
 - [White House GENIUS Act fact sheet](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/)
 
 ## 可复核计算说明
 
-市场市值、NAV bridge、每股 NAV、mNAV、ETH 敏感性、反向估值、每股 ETH、BMNP 成本、EPS 重算和三情景估值均使用 `python3 tools/financial_rigor.py` 的十进制计算命令复核。报告发布前另以 `tools/report_audit.py` 抽样审计事实、时间戳与算术。
+市场市值、NAV bridge、每股 NAV、mNAV、ETH 敏感性、反向估值、每股 ETH、BMNP 成本、EPS 重算和三情景估值均使用 `python3 tools/financial_rigor.py` 的十进制计算命令复核。另以 `tools/report_audit.py` 按固定种子抽样 15%；22 个样本中 1 个是把“10-Q/A”误识别为数值的解析噪声，其余 21 个有效数据点全部通过，0 警告、0 失败。
