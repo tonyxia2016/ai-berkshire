@@ -1,0 +1,10 @@
+{
+  "report": "reports/china-shenhua/中国神华研究报告-20260907.md",
+  "report_sha256": "d544f866d76c184b4a0ccdf4b451c8ef888f7ec950cd5337faeabaf194eca8b3",
+  "external_reference_count": 36,
+  "local_links_verified": 16,
+  "audit_numeric_pass": 24,
+  "audit_false_positive_years": 2,
+  "primary_only_sampled_facts": 3,
+  "note": "Source coverage limits are stated in the report. Scenario verification checks arithmetic only."
+}

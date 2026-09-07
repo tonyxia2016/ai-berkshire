@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460">
+<rect width="920" height="460" fill="#ffffff"/>
+<text x="40" y="44" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="24" fill="#0f172a" text-anchor="start" font-weight="600">收入主要来自煤，物流的价值在利润和交付</text>
+<text x="40" y="75" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="14" fill="#64748b" text-anchor="start" font-weight="400">2026H1 外部收入结构｜合并抵销后｜金额：人民币亿元</text>
+<text x="40" y="136" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="16" fill="#334155" text-anchor="start" font-weight="400">煤炭</text>
+<rect x="130" y="117" width="525.03" height="26" rx="3" fill="#334155"/>
+<text x="670.0327659854538" y="136" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="15" fill="#334155" text-anchor="start" font-weight="400">59.35%  ·  1,123.75</text>
+<text x="40" y="179" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="16" fill="#334155" text-anchor="start" font-weight="400">发电</text>
+<rect x="130" y="160" width="244.65" height="26" rx="3" fill="#2c7a7b"/>
+<text x="389.64774838973364" y="179" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="15" fill="#334155" text-anchor="start" font-weight="400">27.66%  ·  523.63</text>
+<text x="40" y="222" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="16" fill="#334155" text-anchor="start" font-weight="400">铁路</text>
+<rect x="130" y="203" width="32.46" height="26" rx="3" fill="#55839a"/>
+<text x="177.45742046986382" y="222" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="15" fill="#334155" text-anchor="start" font-weight="400">3.67%  ·  69.47</text>
+<text x="40" y="265" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="16" fill="#334155" text-anchor="start" font-weight="400">港口</text>
+<rect x="130" y="246" width="5.84" height="26" rx="3" fill="#7390a2"/>
+<text x="150.83551434674823" y="265" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="15" fill="#334155" text-anchor="start" font-weight="400">0.66%  ·  12.49</text>
+<text x="40" y="308" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="16" fill="#334155" text-anchor="start" font-weight="400">航运</text>
+<rect x="130" y="289" width="12.39" height="26" rx="3" fill="#97acb9"/>
+<text x="157.3858675206001" y="308" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="15" fill="#334155" text-anchor="start" font-weight="400">1.40%  ·  26.51</text>
+<text x="40" y="351" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="16" fill="#334155" text-anchor="start" font-weight="400">煤化工</text>
+<rect x="130" y="332" width="64.26" height="26" rx="3" fill="#ad825b"/>
+<text x="209.25606790298505" y="351" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="15" fill="#334155" text-anchor="start" font-weight="400">7.26%  ·  137.53</text>
+<text x="40" y="412" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="14" fill="#64748b" text-anchor="start" font-weight="400">铁路与港口的内部分部收入已抵销；不能按外部收入占比判断其全部价值。</text>
+<text x="40" y="439" font-family="'PingFang SC','Hiragino Sans GB',Arial,sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="400">来源：中国神华 2026 年中报，分部附注。</text>
+</svg>

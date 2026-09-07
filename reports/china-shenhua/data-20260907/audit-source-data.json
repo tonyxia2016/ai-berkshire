@@ -1,0 +1,123 @@
+{
+  "retrieved_on": "2026-09-07",
+  "sources": {
+    "h1": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf",
+    "fy25": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033003748.pdf",
+    "fy22": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0326/2023032600420_c.pdf",
+    "fy23": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0325/2024032500003.pdf",
+    "cas_h1": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-29/12572344.PDF",
+    "aastocks_h1": "https://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1541938/latest-news/AAFN",
+    "aastocks_fy25": "https://m.aastocks.com/sc/cnhk/quote/stock-news-content/601088/NOW.1514367/AAFN",
+    "aastocks_cash": "https://www.aastocks.com/tc/cnhk/analysis/company-fundamental/cash-flow?shsymbol=601088",
+    "aastocks_balance": "https://www.aastocks.com/tc/cnhk/analysis/company-fundamental/balance-sheet?shsymbol=601088",
+    "eastmoney_main": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22601088.SH%22)&p=1&ps=25&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "etnet_h1": "https://www.etnet.com.hk/www/tc/stocks/realtime/quote_ci_detail.php?code=1088",
+    "etnet_fy25": "https://www.etnet.com.hk/www/tc/stocks/realtime/quote_ci_detail.php?code=1088&pyear=1&eyear=0",
+    "eastmoney_cash": "https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_GCASHFLOW&sty=ALL&filter=(SECUCODE%3D%22601088.SH%22)&p=1&ps=25&sr=-1&st=REPORT_DATE&source=HSF10&client=PC",
+    "sina_quote": "https://hq.sinajs.cn/list=rt_hk01088",
+    "tencent_quote": "https://qt.gtimg.cn/q=hk01088,sh601088",
+    "h1_dividend": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802622.pdf",
+    "shares": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0901/2026090102711.pdf",
+    "fx_20260907": "https://www.news.cn/20260907/f79ba34949a447d6acd8695f762e969a/c.html"
+  },
+  "primary_h1": {
+    "unit": "RMB million except percent, km and million tonnes/year",
+    "cas_prior_profit": 27583,
+    "cas_profit": 28715,
+    "eps": "1.448",
+    "prior_eps": "1.438",
+    "cfo": 54664,
+    "prior_cfo": 51545,
+    "cash_capex": 27367,
+    "cash_rou": 2212,
+    "prior_cash_capex": 31037,
+    "prior_cash_rou": 1126,
+    "rail_profit": 7870,
+    "port_profit": 1589,
+    "shipping_external_revenue": 2651,
+    "shipping_margin_pct": "11.2",
+    "chemical_external_revenue": 13753,
+    "rail_km": 2408,
+    "port_million_tonnes_per_year": 270,
+    "common_equity": 459227
+  },
+  "primary_fy25": {
+    "unit": "RMB million",
+    "revenue": 294916,
+    "shipping_external_revenue": 2612
+  },
+  "eastmoney": {
+    "main_2026-06-30": {
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "PARENTNETPROFIT": 28715000000,
+      "PARENTNETPROFITTZ": "4.103977087336",
+      "OPERATE_INCOME_PK": 189338000000
+    },
+    "main_2025-06-30": {
+      "REPORT_DATE": "2025-06-30 00:00:00",
+      "PARENTNETPROFIT": 27583000000,
+      "PARENTNETPROFITTZ": "-1.531486505783",
+      "OPERATE_INCOME_PK": 175423000000
+    },
+    "main_2025-12-31": {
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "PARENTNETPROFIT": 52849000000,
+      "PARENTNETPROFITTZ": "-5.29701639638",
+      "OPERATE_INCOME_PK": 294916000000
+    },
+    "cash_2026-06-30": {
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "NETCASH_OPERATE": 54664000000,
+      "CONSTRUCT_LONG_ASSET": 29579000000
+    },
+    "cash_2025-06-30": {
+      "REPORT_DATE": "2025-06-30 00:00:00",
+      "NETCASH_OPERATE": 51545000000,
+      "CONSTRUCT_LONG_ASSET": 32163000000
+    },
+    "cash_2025-12-31": {
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "NETCASH_OPERATE": 75059000000,
+      "CONSTRUCT_LONG_ASSET": 48398000000
+    }
+  },
+  "etnet": {
+    "unit": "RMB hundred million",
+    "h1_external_revenue": {
+      "coal": "1123.75",
+      "power": "523.63",
+      "rail": "69.47",
+      "port": "12.49",
+      "shipping": "26.51",
+      "chemical": "137.53"
+    },
+    "h1_segment_profit": {
+      "coal": "289.18",
+      "power": "61.01",
+      "rail": "78.7",
+      "port": "15.89",
+      "shipping": "4.29",
+      "chemical": "22.11"
+    },
+    "fy25_external_revenue": {
+      "coal": "1828.74",
+      "power": "889.14",
+      "rail": "124.09",
+      "port": "23.85",
+      "shipping": "26.12",
+      "chemical": "57.22"
+    },
+    "fy25_total_revenue": "2949.16",
+    "fy25_parent_profit": "542.18",
+    "coverage_note": "2026H1 shipping margin and current rail/port capacity are not in these summaries. ETNet shipping revenue growth 11.2% must not be treated as shipping gross margin verification."
+  },
+  "provenance_sha256": {
+    "h1.pdf": "8205fcfd5cf383607ccae8c3a5cc92f10bf72e71781f51c4f349d10cd44440ed",
+    "fy25.pdf": "ff1b1daf76b59f10994a0e089df713120e811172606cbaf127d193b1a8e87c90",
+    "em-main.json": "52d78d64c8dc01d34de5b97f9087f543cdcca178a0568723f322547a676cf117",
+    "em-cash.json": "a1f56a7cb7217a3ca89f275186de750bcad98074567c1c31e76de2b2c21020c5",
+    "etnet.html": "625c198d1d8ef66c55ac054161381c115e259466597729bb6475132e69b13f98",
+    "etnet-fy25.html": "8eb668bbad5193dd9d784508706e3fee09ee6fbaae255c1a5fa362ae8b57b201"
+  },
+  "method_note": "Source values transcribed from original PDF tables or directly retrieved distributor pages; values were not copied from the report sample. Dated quote snapshots and model assumptions are in their separate attachments."
+}

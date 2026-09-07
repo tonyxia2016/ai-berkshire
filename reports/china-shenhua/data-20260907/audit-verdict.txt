@@ -1,0 +1,70 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：reports/china-shenhua/中国神华研究报告-20260907.md
+======================================================================
+
+  ✅ 通过 [ 7] 全股本按H股价格标记 · 核定值                     报告:      9699.52 亿港元
+                                                    Decimal: Sina quote + HKEX shares + CFETS FX; https://hq.sinajs.cn/list=rt_hk01088: 9699.52 (偏差 0.00%)  |  Decimal: Tencent quote (earlier timestamp) + HKEX shares + CFETS FX; https://qt.gtimg.cn/q=hk01088,sh601088: 9716.87 (偏差 0.18%)
+  ✅ 通过 [ 8] 全股本按H股价格标记 · 使用方式                    报告:      8386.69 亿元
+                                                    Decimal: Sina quote + HKEX shares + CFETS FX; https://hq.sinajs.cn/list=rt_hk01088: 8386.69 (偏差 0.00%)  |  Decimal: Tencent quote (earlier timestamp) + HKEX shares + CFETS FX; https://qt.gtimg.cn/q=hk01088,sh601088: 8401.69 (偏差 0.18%)
+  ✅ 通过 [ 9] A/H各自价格加总市值 · 核定值                    报告:      9745.95 亿元
+                                                    Decimal: Sina quote + HKEX shares + CFETS FX; https://hq.sinajs.cn/list=rt_hk01088: 9745.95 (偏差 0.00%)  |  Decimal: Tencent quote (earlier timestamp) + HKEX shares + CFETS FX; https://qt.gtimg.cn/q=hk01088,sh601088: 9748.29 (偏差 0.02%)
+  ✅ 通过 [23] CAS归母净利润 · 2025H1重述                  报告:       275.83 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf p.8 CAS reconciliation: 275.83 (偏差 0.00%)  |  https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22601088.SH%22)&p=1&ps=25&sr=-1&st=REPORT_DATE&source=HSF10&client=PC: 275.83 (偏差 0.00%)
+  ✅ 通过 [24] CAS归母净利润 · 同比或变化                     报告:         4.10 %
+                                                    Decimal from IFRS-to-CAS reconciliation; https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf: 4.10 (偏差 0.10%)  |  https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22601088.SH%22)&p=1&ps=25&sr=-1&st=REPORT_DATE&source=HSF10&client=PC: 4.10 (偏差 0.10%)
+  ✅ 通过 [27] IFRS基本EPS，人民币元 · 同比或变化               报告:         0.70 %
+                                                    Decimal from IFRS note 12; https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf: 0.70 (偏差 0.66%)
+  ✅ 通过 [29] 经营现金流 · 2025H1重述                     报告:       515.45 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf p.118: 515.45 (偏差 0.00%)  |  https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_GCASHFLOW&sty=ALL&filter=(SECUCODE%3D%22601088.SH%22)&p=1&ps=25&sr=-1&st=REPORT_DATE&source=HSF10&client=PC: 515.45 (偏差 0.00%)
+  ✅ 通过 [36] 集团经营现金减上述现金投入 · 同比或变化                报告:        29.42 %
+                                                    Decimal from cash flow statement; https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf: 29.42 (偏差 0.01%)  |  Decimal from https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_GCASHFLOW&sty=ALL&filter=(SECUCODE%3D%22601088.SH%22)&p=1&ps=25&sr=-1&st=REPORT_DATE&source=HSF10&client=PC: 29.42 (偏差 0.01%)
+  ⬜ [169] 近四个季度的要求存在实质性数据缺口                        2025.00   →  [未提供核验值，跳过]
+  ✅ 通过 [51] 铁路 · H1分部税前利润                        报告:        78.70 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf segment note: 78.70 (偏差 0.00%)  |  https://www.etnet.com.hk/www/tc/stocks/realtime/quote_ci_detail.php?code=1088: 78.70 (偏差 0.00%)
+  ✅ 通过 [56] 港口 · H1分部税前利润                        报告:        15.89 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf segment note: 15.89 (偏差 0.00%)  |  https://www.etnet.com.hk/www/tc/stocks/realtime/quote_ci_detail.php?code=1088: 15.89 (偏差 0.00%)
+  ✅ 通过 [58] 航运 · 2026H1外部收入，新范围                  报告:        26.51 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf segment note: 26.51 (偏差 0.00%)  |  https://www.etnet.com.hk/www/tc/stocks/realtime/quote_ci_detail.php?code=1088: 26.51 (偏差 0.00%)
+  ✅ 通过 [60] 航运 · H1分部毛利率                         报告:        11.20 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf shipping segment operating analysis: 11.20 (偏差 0.00%)
+  ✅ 通过 [57] 航运 · 2025全年外部收入，旧范围                  报告:        26.12 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033003748.pdf segment note: 26.12 (偏差 0.00%)  |  https://www.etnet.com.hk/www/tc/stocks/realtime/quote_ci_detail.php?code=1088&pyear=1&eyear=0: 26.12 (偏差 0.00%)
+  ✅ 通过 [63] 煤化工 · 2026H1外部收入，新范围                 报告:       137.53 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf segment note: 137.53 (偏差 0.00%)  |  https://www.etnet.com.hk/www/tc/stocks/realtime/quote_ci_detail.php?code=1088: 137.53 (偏差 0.00%)
+  ✅ 通过 [71] 神朔—朔黄主通道、黄大等自有铁路 · 最新可核数据            报告:      2408.00 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf business overview: 2408.00 (偏差 0.00%)
+  ✅ 通过 [72] 黄骅港、天津等港口码头 · 最新可核数据                 报告:         2.70 亿
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf business overview: 2.70 (偏差 0.00%)
+  ✅ 通过 [108] 集团CFO减现金资本开支的年化收益率 · 结果              报告:         5.98 %
+                                                    Decimal: group cash flow / H-marked equity; https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf: 5.98 (偏差 0.04%)  |  Decimal from https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_GCASHFLOW&sty=ALL&filter=(SECUCODE%3D%22601088.SH%22)&p=1&ps=25&sr=-1&st=REPORT_DATE&source=HSF10&client=PC: 5.98 (偏差 0.04%)
+  ✅ 通过 [109] H1股息翻倍的税前收益率 · 结果                    报告:         5.07 %
+                                                    Decimal, proposed dividend doubled; https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802622.pdf: 5.07 (偏差 0.02%)
+  ✅ 通过 [115] 中国神华 · PB                            报告:         1.87 倍
+                                                    Decimal: September 4 close / IFRS common BVPS; https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf: 1.87 (偏差 0.12%)
+  ✅ 通过 [130] 乐观 · 股息扣20%后的IRR                     报告:         6.80 %
+                                                    Independent Decimal cash-flow IRR; declared inputs.json assumptions: 6.80 (偏差 0.00%)
+  ✅ 通过 [140] 悲观 · 三年后股价                           报告:        21.18 
+                                                    Independent Decimal EPS compounding × exit PE; inputs.json: 21.18 (偏差 0.02%)
+  ✅ 通过 [144] 悲观 · 股息扣20%后的IRR                     报告:       -18.00 %
+                                                    Independent Decimal cash-flow IRR; declared inputs.json assumptions: -18.00 (偏差 0.01%)
+  ✅ 通过 [152] HK$38—48 · 以正常利润计算的PE                报告:        11.88 
+                                                    Decimal: HK$38 band boundary / assumed normal EPS: 11.88 (偏差 0.02%)
+  ✅ 通过 [164] 2025收入 / IFRS归母利润 · 结果               报告:      2949.16 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033003748.pdf five-year summary: 2949.16 (偏差 0.00%)  |  https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_FINANCE_MAINFINADATA&sty=ALL&filter=(SECUCODE%3D%22601088.SH%22)&p=1&ps=25&sr=-1&st=REPORT_DATE&source=HSF10&client=PC: 2949.16 (偏差 0.00%)
+  ⬜ [163] 2025收入 / IFRS归母利润 · 主源                   2025.00   →  [未提供核验值，跳过]
+
+----------------------------------------------------------------------
+  抽检总数: 24  |  通过: 24  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 24,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 24,
+  "fail_items": [],
+  "warn_items": []
+}
