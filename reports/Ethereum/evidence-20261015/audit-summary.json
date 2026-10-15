@@ -1,0 +1,28 @@
+{
+  "extracted": 57,
+  "random_selected": 9,
+  "excluded": 2,
+  "random_reviewed": 7,
+  "random_categories": {
+    "derived_model_arithmetic": 2,
+    "dual_source_market": 2,
+    "model_assumption": 1,
+    "single_source_auxiliary": 2
+  },
+  "supplementary": 46,
+  "strict_unresolved_discrepancies": [
+    {
+      "label": "2026Q2 USD fees",
+      "relative_deviation_pct": "1.314590329828726920747545506288263508803"
+    },
+    {
+      "label": "2026Q3 USD fees",
+      "relative_deviation_pct": "2.262996932854295828959767393369708999934"
+    },
+    {
+      "label": "TTM USD fees",
+      "relative_deviation_pct": "1.090503825889831133222372327762957958814"
+    }
+  ],
+  "status": "COMPLETED_RESEARCH_WITH_DISCLOSED_LIMITATIONS_NOT_UNQUALIFIED_DUAL_SOURCE_PUBLICATION"
+}

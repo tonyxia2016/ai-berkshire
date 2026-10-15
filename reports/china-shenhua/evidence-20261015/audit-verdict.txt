@@ -1,0 +1,70 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：中国神华研究报告-20261015.md
+======================================================================
+
+  [92m✅ 通过[0m [ 3] 人民币/港元中间价 · 昨日收盘基准                   报告:         0.86 
+                                                    https://www.safe.gov.cn/AppStructured/hlw/RMBQuery.do?COLLCC=546877760 ; 2026-10-14 raw row: 0.86 (偏差 0.00%)
+  [92m✅ 通过[0m [12] 基准情景三年税前年化IRR，含未来分红 · 今日盘中基准         报告:         0.47 %
+                                                    Independent cash-flow recomputation from inputs.json, future assumptions: 0.47 (偏差 0.24%)
+  [92m✅ 通过[0m [18] 毛利 · 同比或变化                           报告:         5.47 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf ; gross-profit source pair: 5.47 (偏差 0.06%)
+  [92m✅ 通过[0m [27] CAS归母净利润 · 同比或变化                     报告:         4.10 %
+                                                    https://static.cninfo.com.cn/finalpage/2026-08-29/1225531759.PDF ; restated CAS pair: 4.10 (偏差 0.10%)
+  [92m✅ 通过[0m [29] IFRS基本EPS，人民币元 · 2025H1重述            报告:         1.44 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf ; restated comparative EPS note12: 1.44 (偏差 0.00%)
+  [92m✅ 通过[0m [30] IFRS基本EPS，人民币元 · 同比或变化               报告:         0.70 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf ; EPS recomputed: 0.70 (偏差 0.66%)
+  [92m✅ 通过[0m [59] 港口 · H1分部税前利润                        报告:        15.89 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf ; port segment pretax profit: 15.89 (偏差 0.00%)
+  [92m✅ 通过[0m [60] 航运 · 2025全年外部收入，旧范围                  报告:        26.12 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033003748.pdf ; external segment revenue note5: 26.12 (偏差 0.00%)
+  [92m✅ 通过[0m [72] 合并外部收入 · H1外部收入同比，重述基数               报告:         7.93 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf ; restated revenue pair: 7.93 (偏差 0.03%)
+  [92m✅ 通过[0m [79] 2026年3—4月 · 决策                       报告:        12.00 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf ; acquisition disclosure: 12.00 (偏差 0.00%)
+  [92m✅ 通过[0m [98] 减借款利息、租赁本金及利息、已付少数股东股息 · 金额          报告:       -36.70 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802662.pdf ; cash flow pp119-120: -36.70 (偏差 0.00%)
+  [92m✅ 通过[0m [103] 商品煤产量，百万吨 · 累计同比，重述基数                报告:        -2.30 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1014/2026101400669.pdf ; reported rounded YoY: -2.30 (偏差 0.00%)
+  [92m✅ 通过[0m [106] 煤炭销量，百万吨 · 累计同比，重述基数                 报告:         0.10 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1014/2026101400669.pdf ; reported rounded YoY: 0.10 (偏差 0.00%)
+  [92m✅ 通过[0m [112] 黄骅港装船量，百万吨 · 累计同比，重述基数               报告:         0.70 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1014/2026101400669.pdf ; reported rounded YoY: 0.70 (偏差 0.00%)
+  [92m✅ 通过[0m [123] H1收入年化PS · 计算结果                      报告:         2.11 倍
+                                                    Independent recomputation: source revenue x2, price, current shares and FX: 2.11 (偏差 0.15%)
+  [92m✅ 通过[0m [125] EV/年化收入代理 · 计算结果                     报告:         2.46 倍
+                                                    Independent recomputation of explicitly limited EV proxy: 2.46 (偏差 0.07%)
+  [92m✅ 通过[0m [127] 假设未来全年股息人民币1.96元，税前收益率 · 计算结果        报告:         5.33 %
+                                                    Future annual dividend assumption / FX / price; inputs.json: 5.33 (偏差 0.03%)
+  [92m✅ 通过[0m [129] 中国神华01088 · 股价，港元                    报告:        43.92 
+                                                    https://stockanalysis.com/quote/hkg/1088/history/ ; 2026-10-14 close: 43.92 (偏差 0.00%)  |  https://content.etnet.com.hk/content/sywg/sc/quote.php?code=01088 ; 2026-10-14 16:15: 43.92 (偏差 0.00%)
+  [92m✅ 通过[0m [135] 中煤能源01898 · 年化PE                     报告:         7.48 倍
+                                                    https://static.cninfo.com.cn/finalpage/2026-08-22/1225489734.PDF ; period-end shares, 10/14 price/FX, H1 x2: 7.48 (偏差 0.06%)
+  [92m✅ 通过[0m [151] 基准 · 累计未来股息，港元                       报告:         6.91 
+                                                    Independent recomputation of base-case annual future dividends: 6.91 (偏差 0.07%)
+  [92m✅ 通过[0m [160] 悲观 · 税前年化IRR                         报告:       -15.52 %
+                                                    Independent cash-flow recomputation of bear case, not a forecast validation: -15.52 (偏差 0.01%)
+  [92m✅ 通过[0m [155] 悲观 · EPS年增长                          报告:        -8.00 %
+                                                    inputs.json bearish growth assumption, not an observed fact: -8.00 (偏差 0.00%)
+  [92m✅ 通过[0m [164] HK$30—33 · 正常利润假设PE                  报告:         9.29 
+                                                    Independent recomputation of lower endpoint price / assumed EPS: 9.29 (偏差 0.04%)
+  [92m✅ 通过[0m [167] HK$33—38 · 假设人民币1.96元年息的税前收益率        报告:         6.02 %
+                                                    Independent recomputation of yield at upper price endpoint: 6.02 (偏差 0.03%)
+  [92m✅ 通过[0m [173] 已持仓，主要需要长期现金收入 · 对应判断                报告:         4.26 %
+                                                    Independent recomputation: future assumed dividend x80% / FX / price: 4.26 (偏差 0.07%)
+
+----------------------------------------------------------------------
+  抽检总数: 25  |  通过: [92m25[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 25,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 25,
+  "fail_items": [],
+  "warn_items": []
+}

@@ -1,0 +1,82 @@
+{
+  "evidence_type": "transcript_extract",
+  "note": "Selected entries extracted verbatim from API responses printed in the research tool transcript. This is not an archived complete raw HTTP response. No data was refreshed or substituted.",
+  "research_date": "2026-10-15",
+  "tvl": {
+    "url": "https://api.llama.fi/v2/chains",
+    "http_date": "Thu, 15 Oct 2026 05:50:48 GMT",
+    "entries": [
+      {
+        "gecko_id": "ethereum",
+        "gasTokenGeckoId": "ethereum",
+        "tvl": 49341166839.62088,
+        "tokenSymbol": "ETH",
+        "cmcId": "1027",
+        "name": "Ethereum",
+        "chainId": 1
+      },
+      {
+        "gecko_id": "solana",
+        "gasTokenGeckoId": "solana",
+        "tvl": 5925009384.418988,
+        "tokenSymbol": "SOL",
+        "cmcId": "5426",
+        "name": "Solana",
+        "chainId": null
+      },
+      {
+        "gecko_id": null,
+        "gasTokenGeckoId": "ethereum",
+        "tvl": 6042938489.996456,
+        "tokenSymbol": null,
+        "cmcId": null,
+        "name": "Base",
+        "chainId": 8453
+      },
+      {
+        "gecko_id": "arbitrum",
+        "gasTokenGeckoId": "ethereum",
+        "tvl": 1357876858.6506436,
+        "tokenSymbol": "ARB",
+        "cmcId": "11841",
+        "name": "Arbitrum",
+        "chainId": 42161
+      },
+      {
+        "gecko_id": "tron",
+        "gasTokenGeckoId": "tron",
+        "tvl": 5487469954.269532,
+        "tokenSymbol": "TRX",
+        "cmcId": "1958",
+        "name": "Tron",
+        "chainId": null
+      }
+    ]
+  },
+  "stablecoins": {
+    "url": "https://stablecoins.llama.fi/stablecoinchains",
+    "http_date": "Thu, 15 Oct 2026 05:50:54 GMT",
+    "field": "totalCirculatingUSD.peggedUSD",
+    "selected_values": {
+      "Ethereum": 143956531938.1858,
+      "Solana": 15731165441.226084,
+      "Tron": 94571891685.12424,
+      "Base": 5171143023.431851,
+      "Arbitrum": 3667015353.8947215
+    }
+  },
+  "dated_ethereum_tvl": {
+    "url": "https://api.llama.fi/v2/historicalChainTvl/Ethereum",
+    "http_date": "Thu, 15 Oct 2026 05:50:51 GMT",
+    "entries": [
+      {
+        "date": 1791936000,
+        "tvl": 50917908224
+      },
+      {
+        "date": 1792022400,
+        "tvl": 49248843909
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+======================================================================
+报告数据抽检清单
+文件：reports/china-shenhua/中国神华研究报告-20261015.md
+总提取数据点：174  |  抽样比例：15%  |  抽检数量：27
+随机种子：1015（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  3     31  人民币/港元中间价 · 昨日收盘基准                           0.86  
+ 12     35  基准情景三年税前年化IRR，含未来分红 · 今日盘中基准                 0.47  %
+ 18     48  毛利 · 同比或变化                                   5.47  %
+ 27     51  CAS归母净利润 · 同比或变化                             4.10  %
+ 29     52  IFRS基本EPS，人民币元 · 2025H1重述                    1.44  
+ 30     52  IFRS基本EPS，人民币元 · 同比或变化                       0.70  %
+ 59     72  港口 · H1分部税前利润                               15.89  
+ 60     73  航运 · 2025全年外部收入，旧范围                         26.12  
+ 72     75  合并外部收入 · H1外部收入同比，重述基数                       7.93  %
+ 78    123  新街一井、二井 · 价值与代价                           2029.00  
+ 79    192  2026年3—4月 · 决策                              12.00  
+ 85    195  2026全年计划 · 已知结果                              1.00  
+ 98    221  减借款利息、租赁本金及利息、已付少数股东股息 · 金额                -36.70  
+103    244  商品煤产量，百万吨 · 累计同比，重述基数                       -2.30  %
+106    245  煤炭销量，百万吨 · 累计同比，重述基数                         0.10  %
+112    247  黄骅港装船量，百万吨 · 累计同比，重述基数                       0.70  %
+123    274  H1收入年化PS · 计算结果                              2.11  倍
+125    276  EV/年化收入代理 · 计算结果                             2.46  倍
+127    278  假设未来全年股息人民币1.96元，税前收益率 · 计算结果                5.33  %
+129    291  中国神华01088 · 股价，港元                           43.92  
+135    292  中煤能源01898 · 年化PE                             7.48  倍
+151    326  基准 · 累计未来股息，港元                               6.91  
+160    327  悲观 · 税前年化IRR                               -15.52  %
+155    327  悲观 · EPS年增长                                 -8.00  %
+164    355  HK$30—33 · 正常利润假设PE                          9.29  
+167    356  HK$33—38 · 假设人民币1.96元年息的税前收益率                6.02  %
+173    365  已持仓，主要需要长期现金收入 · 对应判断                        4.26  %
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 3,
+    "label": "人民币/港元中间价 · 昨日收盘基准",
+    "reported_value": 0.85688,
+    "unit": "",
+    "line_number": 31,
+    "raw_text": "| 人民币/港元中间价 | 0.85688 | 0.85702 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "基准情景三年税前年化IRR，含未来分红 · 今日盘中基准",
+    "reported_value": 0.47,
+    "unit": "%",
+    "line_number": 35,
+    "raw_text": "| 基准情景三年税前年化IRR，含未来分红 | -0.33% | +0.47% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "毛利 · 同比或变化",
+    "reported_value": 5.47,
+    "unit": "%",
+    "line_number": 48,
+    "raw_text": "| 毛利 | 566.92 | 537.50 | +5.47% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "CAS归母净利润 · 同比或变化",
+    "reported_value": 4.1,
+    "unit": "%",
+    "line_number": 51,
+    "raw_text": "| CAS归母净利润 | 287.15 | 275.83 | +4.10% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "IFRS基本EPS，人民币元 · 2025H1重述",
+    "reported_value": 1.438,
+    "unit": "",
+    "line_number": 52,
+    "raw_text": "| IFRS基本EPS，人民币元 | 1.448 | 1.438 | +0.70% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 30,
+    "label": "IFRS基本EPS，人民币元 · 同比或变化",
+    "reported_value": 0.7,
+    "unit": "%",
+    "line_number": 52,
+    "raw_text": "| IFRS基本EPS，人民币元 | 1.448 | 1.438 | +0.70% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 59,
+    "label": "港口 · H1分部税前利润",
+    "reported_value": 15.89,
+    "unit": "",
+    "line_number": 72,
+    "raw_text": "| 港口 | 23.85 | 12.49 | +13.24% | 51.6% | 15.89 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "航运 · 2025全年外部收入，旧范围",
+    "reported_value": 26.12,
+    "unit": "",
+    "line_number": 73,
+    "raw_text": "| 航运 | 26.12 | 26.51 | +11.25% | 11.2% | 4.29 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "合并外部收入 · H1外部收入同比，重述基数",
+    "reported_value": 7.93,
+    "unit": "%",
+    "line_number": 75,
+    "raw_text": "| **合并外部收入** | **2,949.16** | **1,893.38** | **+7.93%** | — | — |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 78,
+    "label": "新街一井、二井 · 价值与代价",
+    "reported_value": 2029.0,
+    "unit": "",
+    "line_number": 123,
+    "raw_text": "| 新街一井、二井 | 各规划800万吨/年，项目合计投资约300亿元 | 2029年首采面投产为管理层计划；兑现前先占用现金 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 79,
+    "label": "2026年3—4月 · 决策",
+    "reported_value": 12.0,
+    "unit": "",
+    "line_number": 192,
+    "raw_text": "| 2026年3—4月 | 取得12项标的权益并完成配套融资 | 总对价1,335.98亿元，股本较原19,868,519,955股增加9.16% | 扩大资源和协同，同时增加融资与整合负担 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 85,
+    "label": "2026全年计划 · 已知结果",
+    "reported_value": 1.0,
+    "unit": "",
+    "line_number": 195,
+    "raw_text": "| 2026全年计划 | 项目资本开支559.87亿元 | H1已完成232.90亿元 | 支持接续，但分红不能只看账面利润 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 98,
+    "label": "减借款利息、租赁本金及利息、已付少数股东股息 · 金额",
+    "reported_value": -36.7,
+    "unit": "",
+    "line_number": 221,
+    "raw_text": "| 减借款利息、租赁本金及利息、已付少数股东股息 | -36.70 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 103,
+    "label": "商品煤产量，百万吨 · 累计同比，重述基数",
+    "reported_value": -2.3,
+    "unit": "%",
+    "line_number": 244,
+    "raw_text": "| 商品煤产量，百万吨 | 381.9 | -2.3% | +3.2% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 106,
+    "label": "煤炭销量，百万吨 · 累计同比，重述基数",
+    "reported_value": 0.1,
+    "unit": "%",
+    "line_number": 245,
+    "raw_text": "| 煤炭销量，百万吨 | 460.6 | +0.1% | -4.8% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 112,
+    "label": "黄骅港装船量，百万吨 · 累计同比，重述基数",
+    "reported_value": 0.7,
+    "unit": "%",
+    "line_number": 247,
+    "raw_text": "| 黄骅港装船量，百万吨 | 165.9 | +0.7% | -6.5% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 123,
+    "label": "H1收入年化PS · 计算结果",
+    "reported_value": 2.11,
+    "unit": "倍",
+    "line_number": 274,
+    "raw_text": "| H1收入年化PS | 2.11倍 | 贸易收入占比影响解释力 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 125,
+    "label": "EV/年化收入代理 · 计算结果",
+    "reported_value": 2.46,
+    "unit": "倍",
+    "line_number": 276,
+    "raw_text": "| EV/年化收入代理 | 2.46倍 | H股等值总权益加窄净债及账面少数股东权益 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 127,
+    "label": "假设未来全年股息人民币1.96元，税前收益率 · 计算结果",
+    "reported_value": 5.33,
+    "unit": "%",
+    "line_number": 278,
+    "raw_text": "| 假设未来全年股息人民币1.96元，税前收益率 | 5.33% | 非派息承诺，未重复计已除净股息 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 129,
+    "label": "中国神华01088 · 股价，港元",
+    "reported_value": 43.92,
+    "unit": "",
+    "line_number": 291,
+    "raw_text": "| 中国神华01088 | 43.92 | 310.54 | 13.14倍 | 1.78倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 135,
+    "label": "中煤能源01898 · 年化PE",
+    "reported_value": 7.48,
+    "unit": "倍",
+    "line_number": 292,
+    "raw_text": "| 中煤能源01898 | 10.78 | 81.92 | 7.48倍 | 0.74倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 151,
+    "label": "基准 · 累计未来股息，港元",
+    "reported_value": 6.91,
+    "unit": "",
+    "line_number": 326,
+    "raw_text": "| 基准 | +1% | 11倍 | 36.58 | 6.91 | +1.34% | +0.47% | -0.66% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 160,
+    "label": "悲观 · 税前年化IRR",
+    "reported_value": -15.52,
+    "unit": "%",
+    "line_number": 327,
+    "raw_text": "| 悲观 | -8% | 8.5倍 | 21.36 | 5.34 | -37.78% | -15.52% | -16.56% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 155,
+    "label": "悲观 · EPS年增长",
+    "reported_value": -8.0,
+    "unit": "%",
+    "line_number": 327,
+    "raw_text": "| 悲观 | -8% | 8.5倍 | 21.36 | 5.34 | -37.78% | -15.52% | -16.56% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 164,
+    "label": "HK$30—33 · 正常利润假设PE",
+    "reported_value": 9.29,
+    "unit": "",
+    "line_number": 355,
+    "raw_text": "| HK$30—33 | 9.29—10.22倍 | 6.93%—7.62% | 有条件建仓，先确认分红与再投入可持续 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 167,
+    "label": "HK$33—38 · 假设人民币1.96元年息的税前收益率",
+    "reported_value": 6.02,
+    "unit": "%",
+    "line_number": 356,
+    "raw_text": "| HK$33—38 | 10.22—11.77倍 | 6.02%—6.93% | 接近合理价值，较高回报要求者继续等待 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 173,
+    "label": "已持仓，主要需要长期现金收入 · 对应判断",
+    "reported_value": 4.26,
+    "unit": "%",
+    "line_number": 365,
+    "raw_text": "| 已持仓，主要需要长期现金收入 | 能接受假设下约4.26%的税后股息收益及本金波动，可保留适量核心仓位 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

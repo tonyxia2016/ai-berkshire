@@ -1,0 +1,234 @@
+[
+  {
+    "url": "https://ultrasound.money/api/v2/fees/supply-parts",
+    "fetched_utc": "2026-10-15T05:51:26.256654+00:00",
+    "data": {
+      "beaconBalancesSum": "44199373467092917",
+      "beaconDepositsSum": "90833001845995261",
+      "blockNumber": 26195933,
+      "executionBalancesSum": "168763875420869374814104311",
+      "slot": 15434952
+    }
+  },
+  {
+    "url": "https://ultrasound.money/api/v2/fees/burn-sums",
+    "fetched_utc": "2026-10-15T05:51:26.921791+00:00",
+    "data": {
+      "d1": {
+        "block_number": 26195932,
+        "sum": {
+          "eth": 49.11735993010264,
+          "usd": 119284.75342025256
+        },
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "d30": {
+        "block_number": 26195932,
+        "sum": {
+          "eth": 2487.4445450519265,
+          "usd": 6554821.476534199
+        },
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "d7": {
+        "block_number": 26195932,
+        "sum": {
+          "eth": 391.4617202877786,
+          "usd": 968116.1431899494
+        },
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "h1": {
+        "block_number": 26195932,
+        "sum": {
+          "eth": 0.67934786274756,
+          "usd": 1607.5160089631454
+        },
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "m5": {
+        "block_number": 26195932,
+        "sum": {
+          "eth": 0.0628504937617106,
+          "usd": 147.9654814849721
+        },
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "since_burn": {
+        "block_number": 26195932,
+        "sum": {
+          "eth": 4640965.661370607,
+          "usd": 13111661313.052616
+        },
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "since_merge": {
+        "block_number": 26195932,
+        "sum": {
+          "eth": 2017656.3197860396,
+          "usd": 4561761133.716828
+        },
+        "timestamp": "2026-10-15T05:50:35Z"
+      }
+    }
+  },
+  {
+    "url": "https://ultrasound.money/api/v2/fees/gauge-rates",
+    "fetched_utc": "2026-10-15T05:51:26.817415+00:00",
+    "data": {
+      "d1": {
+        "block_number": 26195932,
+        "burn_rate_yearly": {
+          "eth": 17940.11571446999,
+          "usd": 43568756.186747245
+        },
+        "issuance_rate_yearly": {
+          "eth": 1086274.992383835,
+          "usd": 2651314417.557801
+        },
+        "issuance_rate_yearly_pow": {
+          "eth": 4930875.0,
+          "usd": 12034981998.421885
+        },
+        "supply_growth_rate_yearly": 0.00874750442699308,
+        "supply_growth_rate_yearly_pow": 0.04022701176226493,
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "d30": {
+        "block_number": 26195932,
+        "burn_rate_yearly": {
+          "eth": 30284.637336007207,
+          "usd": 79804951.47680387
+        },
+        "issuance_rate_yearly": {
+          "eth": 1082513.6403416784,
+          "usd": 2826621833.3007793
+        },
+        "issuance_rate_yearly_pow": {
+          "eth": 4930875.0,
+          "usd": 12875328691.357422
+        },
+        "supply_growth_rate_yearly": 0.008615629858212754,
+        "supply_growth_rate_yearly_pow": 0.04012593506815741,
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "d7": {
+        "block_number": 26195932,
+        "burn_rate_yearly": {
+          "eth": 20425.913333587305,
+          "usd": 50514917.328589864
+        },
+        "issuance_rate_yearly": {
+          "eth": 1087124.4775920094,
+          "usd": 2714431016.607676
+        },
+        "issuance_rate_yearly_pow": {
+          "eth": 4930875.0,
+          "usd": 12311856015.478752
+        },
+        "supply_growth_rate_yearly": 0.008734106333968828,
+        "supply_growth_rate_yearly_pow": 0.04020665810148618,
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "h1": {
+        "block_number": 26195932,
+        "burn_rate_yearly": {
+          "eth": 5955.163364845111,
+          "usd": 14091485.334570931
+        },
+        "issuance_rate_yearly": {
+          "eth": 1149861.9858950342,
+          "usd": 2720821445.5292754
+        },
+        "issuance_rate_yearly_pow": {
+          "eth": 4930875.0,
+          "usd": 11667513675.375
+        },
+        "supply_growth_rate_yearly": 0.009366285995778866,
+        "supply_growth_rate_yearly_pow": 0.04032514431042482,
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "m5": {
+        "block_number": 26195932,
+        "burn_rate_yearly": {
+          "eth": 6611.369139781862,
+          "usd": 15564784.928367184
+        },
+        "issuance_rate_yearly": {
+          "eth": 1347612.263025048,
+          "usd": 3171554251.763456
+        },
+        "issuance_rate_yearly_pow": {
+          "eth": 4930875.0,
+          "usd": 11604626939.250002
+        },
+        "supply_growth_rate_yearly": 0.010980088277594856,
+        "supply_growth_rate_yearly_pow": 0.04031977131077215,
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "since_burn": {
+        "block_number": 26195932,
+        "burn_rate_yearly": {
+          "eth": 893707.3388215419,
+          "usd": 2524902960.8542647
+        },
+        "issuance_rate_yearly": {
+          "eth": 807911.5467381713,
+          "usd": 2029560083.9493845
+        },
+        "issuance_rate_yearly_pow": {
+          "eth": 4930875.0,
+          "usd": 12386884578.327686
+        },
+        "supply_growth_rate_yearly": -0.0007024942154901972,
+        "supply_growth_rate_yearly_pow": 0.0330562473994766,
+        "timestamp": "2026-10-15T05:50:35Z"
+      },
+      "since_merge": {
+        "block_number": 26195932,
+        "burn_rate_yearly": {
+          "eth": 494276.8743722208,
+          "usd": 1117520864.5272834
+        },
+        "issuance_rate_yearly": {
+          "eth": 888670.1316891783,
+          "usd": 2158931768.822469
+        },
+        "issuance_rate_yearly_pow": {
+          "eth": 4930875.0,
+          "usd": 11979048587.30623
+        },
+        "supply_growth_rate_yearly": 0.0032292840378963126,
+        "supply_growth_rate_yearly_pow": 0.036326775987796475,
+        "timestamp": "2026-10-15T05:50:35Z"
+      }
+    }
+  },
+  {
+    "url": "https://ultrasound.money/api/v2/fees/effective-balance-sum",
+    "fetched_utc": "2026-10-15T05:51:26.114543+00:00",
+    "data": {
+      "slot": 15434947,
+      "sum": 43763362000000000,
+      "timestamp": "2026-10-15T05:49:47Z"
+    }
+  },
+  {
+    "url": "https://ultrasound.money/api/fees/validator-rewards",
+    "fetched_utc": "2026-10-15T05:51:25.283344+00:00",
+    "data": {
+      "mev": {
+        "apr": 0.00047138733866695795,
+        "annualReward": 15084394.837342655
+      },
+      "tips": {
+        "apr": 0.0004492452744509923,
+        "annualReward": 14375848.782431753
+      },
+      "issuance": {
+        "apr": 0.02503690189222894,
+        "annualReward": 801180860.5513262
+      }
+    }
+  }
+]

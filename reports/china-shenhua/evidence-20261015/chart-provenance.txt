@@ -1,0 +1,1 @@
+The financial statement cutoff remains 2026H1 / FY2025. PNG plots reused from 2026-09-07 report only after the underlying annual and segment values were re-fetched and verified on 2026-10-15. Regenerated SVGs read financials-verified.json; no market-price chart is reused.

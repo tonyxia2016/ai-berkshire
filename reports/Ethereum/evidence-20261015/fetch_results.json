@@ -1,0 +1,166 @@
+[
+  {
+    "source": "coingecko",
+    "url": "https://api.coingecko.com/api/v3/coins/ethereum?localization=false&tickers=false&market_data=true&community_data=false&developer_data=false&sparkline=false",
+    "retrieved_utc": "2026-10-15T05:50:19.641616+00:00",
+    "status": 200,
+    "http_date": "Thu, 15 Oct 2026 05:50:18 GMT",
+    "bytes": 33295,
+    "file": "/tmp/eth_market_20261015/coingecko.json",
+    "data": {
+      "circulating_supply": 122136580.3876922,
+      "total_supply": 122136580.3876922,
+      "last_updated": "2026-10-15T05:49:51.000Z",
+      "price_usd": 2351.84,
+      "market_cap_usd": 287246123152
+    }
+  },
+  {
+    "source": "coinpaprika",
+    "url": "https://api.coinpaprika.com/v1/tickers/eth-ethereum",
+    "retrieved_utc": "2026-10-15T05:50:12.629344+00:00",
+    "status": 200,
+    "http_date": "Thu, 15 Oct 2026 05:50:12 GMT",
+    "bytes": 809,
+    "file": "/tmp/eth_market_20261015/coinpaprika.json",
+    "data": {
+      "id": "eth-ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "rank": 2,
+      "total_supply": 120232214,
+      "max_supply": 0,
+      "beta_value": 1.39056,
+      "first_data_at": "2015-08-07T00:00:00Z",
+      "last_updated": "2026-10-15T05:49:18Z",
+      "quotes": {
+        "USD": {
+          "price": 2352.5360106414246,
+          "volume_24h": 12982317513.061653,
+          "volume_24h_change_24h": 85.58000183105469,
+          "market_cap": 287330702666,
+          "market_cap_change_24h": -6.03000020980835,
+          "percent_change_15m": -0.3199999928474426,
+          "percent_change_30m": -0.4300000071525574,
+          "percent_change_1h": -1.2799999713897705,
+          "percent_change_6h": -2.880000114440918,
+          "percent_change_12h": -3.140000104904175,
+          "percent_change_24h": -6.03000020980835,
+          "percent_change_7d": -8.229999542236328,
+          "percent_change_30d": 0,
+          "percent_change_1y": 0,
+          "ath_price": 4946.229669645212,
+          "ath_date": "2025-08-24T19:24:38Z",
+          "percent_from_price_ath": -52.3
+        }
+      }
+    }
+  },
+  {
+    "source": "coinbase",
+    "url": "https://api.coinbase.com/v2/prices/ETH-USD/spot",
+    "retrieved_utc": "2026-10-15T05:50:17.217404+00:00",
+    "status": 200,
+    "http_date": "Thu, 15 Oct 2026 05:50:17 GMT",
+    "bytes": 59,
+    "file": "/tmp/eth_market_20261015/coinbase.json",
+    "data": {
+      "data": {
+        "amount": "2350.95",
+        "base": "ETH",
+        "currency": "USD"
+      }
+    }
+  },
+  {
+    "source": "kraken",
+    "url": "https://api.kraken.com/0/public/Ticker?pair=ETHUSD",
+    "retrieved_utc": "2026-10-15T05:50:14.704891+00:00",
+    "status": 200,
+    "http_date": "Thu, 15 Oct 2026 05:50:13 GMT",
+    "bytes": 301,
+    "file": "/tmp/eth_market_20261015/kraken.json",
+    "data": {
+      "error": [],
+      "result": {
+        "XETHZUSD": {
+          "a": [
+            "2350.85000",
+            "4",
+            "4.000"
+          ],
+          "b": [
+            "2350.84000",
+            "8",
+            "8.000"
+          ],
+          "c": [
+            "2350.50000",
+            "0.46400000"
+          ],
+          "v": [
+            "22528.32448799",
+            "55591.01625276"
+          ],
+          "p": [
+            "2369.95251",
+            "2415.35428"
+          ],
+          "t": [
+            25702,
+            82936
+          ],
+          "l": [
+            "2313.42000",
+            "2313.42000"
+          ],
+          "h": [
+            "2426.17000",
+            "2527.11000"
+          ],
+          "o": "2418.61000"
+        }
+      }
+    }
+  },
+  {
+    "source": "ultrasound",
+    "url": "https://ultrasound.money/",
+    "retrieved_utc": "2026-10-15T05:50:14.561385+00:00",
+    "status": 200,
+    "http_date": "Thu, 15 Oct 2026 05:50:13 GMT",
+    "bytes": 138204,
+    "file": "/tmp/eth_market_20261015/ultrasound.html",
+    "preview": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"initial-scale=1.0, width=devi"
+  },
+  {
+    "source": "etherscan",
+    "url": "https://etherscan.io/stat/supply",
+    "retrieved_utc": "2026-10-15T05:50:14.181063+00:00",
+    "status": 200,
+    "http_date": "Thu, 15 Oct 2026 05:50:13 GMT",
+    "bytes": 110452,
+    "file": "/tmp/eth_market_20261015/etherscan.html",
+    "preview": "\r\n\r\n<!doctype html>\r\n<html id=\"html\" lang=\"en\">\r\n<head><title>\r\n\tEther Total  Supply and Market Capitalization Chart | E"
+  },
+  {
+    "source": "fees",
+    "url": "https://api.llama.fi/summary/fees/ethereum?dataType=dailyFees",
+    "retrieved_utc": "2026-10-15T05:50:14.243158+00:00",
+    "status": 200,
+    "http_date": "Thu, 15 Oct 2026 05:50:12 GMT",
+    "bytes": 271748,
+    "file": "/tmp/eth_market_20261015/fees.json",
+    "preview": "{\"name\":\"Ethereum\",\"defillamaId\":\"chain#ethereum\",\"displayName\":\"Ethereum\",\"module\":\"ethereum\",\"category\":\"Chain\",\"logo\""
+  },
+  {
+    "source": "coinmetrics",
+    "url": "https://community-api.coinmetrics.io/v4/timeseries/asset-metrics?assets=eth&metrics=FeeTotNtv,PriceUSD,SplyCur&frequency=1d&start_time=2021-01-01&end_time=2026-10-15&page_size=10000",
+    "retrieved_utc": "2026-10-15T05:50:16.298516+00:00",
+    "status": 200,
+    "http_date": "Thu, 15 Oct 2026 05:50:14 GMT",
+    "bytes": 345445,
+    "file": "/tmp/eth_market_20261015/coinmetrics.json",
+    "preview": "{\"data\":[{\"asset\":\"eth\",\"time\":\"2021-01-01T00:00:00.000000000Z\",\"FeeTotNtv\":\"5188.673350531175554934\",\"PriceUSD\":\"730.91"
+  }
+]

@@ -1,0 +1,141 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：Ethereum研究报告-20261015.md
+======================================================================
+
+  [92m✅ 通过[0m [100] 2021 USD fees                        报告: 9919925070.89 
+                                                    Re-summed Coin Metrics raw daily payload: 9919925070.89 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 9909658913.00 (偏差 0.10%)
+  [92m✅ 通过[0m [101] 2021 native fees                     报告:   3446698.30 
+                                                    Re-summed Coin Metrics raw daily payload: 3446698.30 (偏差 0.00%)
+  [92m✅ 通过[0m [102] 2022 USD fees                        报告: 4300010048.07 
+                                                    Re-summed Coin Metrics raw daily payload: 4300010048.07 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 4303921493.00 (偏差 0.09%)
+  [92m✅ 通过[0m [103] 2022 native fees                     报告:   1766038.69 
+                                                    Re-summed Coin Metrics raw daily payload: 1766038.69 (偏差 0.00%)
+  [92m✅ 通过[0m [104] 2023 USD fees                        报告: 2406636018.44 
+                                                    Re-summed Coin Metrics raw daily payload: 2406636018.44 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 2406927533.00 (偏差 0.01%)
+  [92m✅ 通过[0m [105] 2023 native fees                     报告:   1309054.54 
+                                                    Re-summed Coin Metrics raw daily payload: 1309054.54 (偏差 0.00%)
+  [92m✅ 通过[0m [106] 2024 USD fees                        报告: 2473101585.95 
+                                                    Re-summed Coin Metrics raw daily payload: 2473101585.95 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 2470611881.00 (偏差 0.10%)
+  [92m✅ 通过[0m [107] 2024 native fees                     报告:    793879.31 
+                                                    Re-summed Coin Metrics raw daily payload: 793879.31 (偏差 0.00%)
+  [92m✅ 通过[0m [108] 2025 USD fees                        报告: 520714382.20 
+                                                    Re-summed Coin Metrics raw daily payload: 520714382.20 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 523172315.00 (偏差 0.47%)
+  [92m✅ 通过[0m [109] 2025 native fees                     报告:    171840.80 
+                                                    Re-summed Coin Metrics raw daily payload: 171840.80 (偏差 0.00%)
+  [92m✅ 通过[0m [110] 2025Q4 USD fees                      报告:  76671974.40 
+                                                    Re-summed Coin Metrics raw daily payload: 76671974.40 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 76091098.00 (偏差 0.76%)
+  [92m✅ 通过[0m [111] 2025Q4 native fees                   报告:     21505.80 
+                                                    Re-summed Coin Metrics raw daily payload: 21505.80 (偏差 0.00%)
+  [92m✅ 通过[0m [112] 2026Q1 USD fees                      报告:  39951070.08 
+                                                    Re-summed Coin Metrics raw daily payload: 39951070.08 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 39727936.00 (偏差 0.56%)
+  [92m✅ 通过[0m [113] 2026Q1 native fees                   报告:     17425.08 
+                                                    Re-summed Coin Metrics raw daily payload: 17425.08 (偏差 0.00%)
+  [93m⚠️  警告[0m [114] 2026Q2 USD fees                      报告:  52472425.43 
+                                                    Re-summed Coin Metrics raw daily payload: 52472425.43 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 51782628.00 (偏差 1.31%)
+  [92m✅ 通过[0m [115] 2026Q2 native fees                   报告:     24834.74 
+                                                    Re-summed Coin Metrics raw daily payload: 24834.74 (偏差 0.00%)
+  [93m⚠️  警告[0m [116] 2026Q3 USD fees                      报告:  35403107.23 
+                                                    Re-summed Coin Metrics raw daily payload: 35403107.23 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 34601936.00 (偏差 2.26%)
+  [92m✅ 通过[0m [117] 2026Q3 native fees                   报告:     15695.98 
+                                                    Re-summed Coin Metrics raw daily payload: 15695.98 (偏差 0.00%)
+  [93m⚠️  警告[0m [118] TTM USD fees                         报告: 183720933.81 
+                                                    Re-summed Coin Metrics raw daily payload: 183720933.81 (偏差 0.00%)  |  Re-summed DefiLlama raw daily payload: 181717450.00 (偏差 1.09%)
+  [92m✅ 通过[0m [119] TTM native fees                      报告:     75382.39 
+                                                    Re-summed Coin Metrics raw daily payload: 75382.39 (偏差 0.00%)
+  [92m✅ 通过[0m [120] ETH supply                           报告: 122136580.39 
+                                                    CoinGecko direct API: 122136580.39 (偏差 0.00%)  |  ultrasound independent balance reconstruction: 122130247.04 (偏差 0.01%)
+  [92m✅ 通过[0m [121] Market cap                           报告: 286715622460.11 
+                                                    Decimal P x S: 286715622460.11 (偏差 0.00%)  |  CoinGecko reported capitalization: 286792375976.00 (偏差 0.03%)
+  [92m✅ 通过[0m [122] 悲观 future_supply                     报告: 128366773.47 
+                                                    Independent Decimal scenario recomputation: 128366773.47 (偏差 0.00%)
+  [92m✅ 通过[0m [123] 悲观 terminal_price                    报告:      1168.53 
+                                                    Independent Decimal scenario recomputation: 1168.53 (偏差 0.00%)
+  [92m✅ 通过[0m [124] 悲观 return_pct                        报告:       -50.22 
+                                                    Independent Decimal scenario recomputation: -50.22 (偏差 0.00%)
+  [92m✅ 通过[0m [125] 悲观 cagr_pct                          报告:       -13.02 
+                                                    Independent Decimal scenario recomputation: -13.02 (偏差 0.00%)
+  [92m✅ 通过[0m [126] 悲观 staking_sensitivity_cagr_pct      报告:       -10.85 
+                                                    Independent Decimal scenario recomputation: -10.85 (偏差 0.00%)
+  [92m✅ 通过[0m [127] 中性 future_supply                     报告: 125220682.10 
+                                                    Independent Decimal scenario recomputation: 125220682.10 (偏差 0.00%)
+  [92m✅ 通过[0m [128] 中性 terminal_price                    报告:      3593.66 
+                                                    Independent Decimal scenario recomputation: 3593.66 (偏差 0.00%)
+  [92m✅ 通过[0m [129] 中性 return_pct                        报告:        53.08 
+                                                    Independent Decimal scenario recomputation: 53.08 (偏差 0.00%)
+  [92m✅ 通过[0m [130] 中性 cagr_pct                          报告:         8.89 
+                                                    Independent Decimal scenario recomputation: 8.89 (偏差 0.00%)
+  [92m✅ 通过[0m [131] 中性 staking_sensitivity_cagr_pct      报告:        11.61 
+                                                    Independent Decimal scenario recomputation: 11.61 (偏差 0.00%)
+  [92m✅ 通过[0m [132] 乐观 future_supply                     报告: 120920090.29 
+                                                    Independent Decimal scenario recomputation: 120920090.29 (偏差 0.00%)
+  [92m✅ 通过[0m [133] 乐观 terminal_price                    报告:      7442.93 
+                                                    Independent Decimal scenario recomputation: 7442.93 (偏差 0.00%)
+  [92m✅ 通过[0m [134] 乐观 return_pct                        报告:       217.06 
+                                                    Independent Decimal scenario recomputation: 217.06 (偏差 0.00%)
+  [92m✅ 通过[0m [135] 乐观 cagr_pct                          报告:        25.96 
+                                                    Independent Decimal scenario recomputation: 25.96 (偏差 0.00%)
+  [92m✅ 通过[0m [136] 乐观 staking_sensitivity_cagr_pct      报告:        29.11 
+                                                    Independent Decimal scenario recomputation: 29.11 (偏差 0.00%)
+  [92m✅ 通过[0m [137] entry_12pct                          报告:      2039.14 
+                                                    Independent Decimal discounted terminal price: 2039.14 (偏差 0.00%)
+  [92m✅ 通过[0m [138] entry_15pct                          报告:      1786.68 
+                                                    Independent Decimal discounted terminal price: 1786.68 (偏差 0.00%)
+  [92m✅ 通过[0m [139] Entry 1500                           报告:        19.09 
+                                                    Independent Decimal entry return: 19.09 (偏差 0.00%)
+  [92m✅ 通过[0m [140] Entry 1800                           报告:        14.83 
+                                                    Independent Decimal entry return: 14.83 (偏差 0.00%)
+  [92m✅ 通过[0m [141] Entry 2000                           报告:        12.43 
+                                                    Independent Decimal entry return: 12.43 (偏差 0.00%)
+  [92m✅ 通过[0m [142] Entry 2347.5                         报告:         8.89 
+                                                    Independent Decimal entry return: 8.89 (偏差 0.00%)
+  [92m✅ 通过[0m [143] Entry 3000                           报告:         3.68 
+                                                    Independent Decimal entry return: 3.68 (偏差 0.00%)
+  [92m✅ 通过[0m [144] Entry 4000                           报告:        -2.12 
+                                                    Independent Decimal entry return: -2.12 (偏差 0.00%)
+  [92m✅ 通过[0m [145] Reverse DCF reconstructed cap        报告: 286715622460.11 
+                                                    Independent Decimal discounted proxy fee stream: 286715622460.11 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 46  |  通过: [92m43[0m  |  警告: [93m3[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+[93m注意：3 个数据点两来源结果不一致（超过1%），可能是口径差异（GAAP/Non-GAAP或汇率），请人工复核。[0m
+  ⚠️  2026Q2 USD fees  报告:52472425.43053642   偏差: 0.0% / 1.31%
+  ⚠️  2026Q3 USD fees  报告:35403107.230767384   偏差: 0.0% / 2.26%
+  ⚠️  TTM USD fees  报告:183720933.81218237   偏差: 0.0% / 1.09%
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 43,
+  "warn_count": 3,
+  "fail_count": 0,
+  "total": 46,
+  "fail_items": [],
+  "warn_items": [
+    {
+      "id": 114,
+      "label": "2026Q2 USD fees",
+      "reported": 52472425.43053642,
+      "unit": "",
+      "diff1_pct": 0.0,
+      "diff2_pct": 1.31
+    },
+    {
+      "id": 116,
+      "label": "2026Q3 USD fees",
+      "reported": 35403107.230767384,
+      "unit": "",
+      "diff1_pct": 0.0,
+      "diff2_pct": 2.26
+    },
+    {
+      "id": 118,
+      "label": "TTM USD fees",
+      "reported": 183720933.81218237,
+      "unit": "",
+      "diff1_pct": 0.0,
+      "diff2_pct": 1.09
+    }
+  ]
+}

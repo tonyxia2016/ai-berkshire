@@ -1,0 +1,21 @@
+[
+  {
+    "source": "coinmetrics_catalog",
+    "url": "https://community-api.coinmetrics.io/v4/catalog-all/asset-metrics?assets=eth",
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "source": "revenue",
+    "url": "https://api.llama.fi/summary/fees/ethereum?dataType=dailyRevenue",
+    "retrieved_utc": "2026-10-15T05:51:21.082377+00:00",
+    "http_date": "Thu, 15 Oct 2026 05:51:19 GMT",
+    "bytes": 253001
+  },
+  {
+    "source": "llama_adapter",
+    "url": "https://raw.githubusercontent.com/DefiLlama/dimension-adapters/master/fees/ethereum/index.ts",
+    "retrieved_utc": "2026-10-15T05:51:19.954559+00:00",
+    "http_date": "Thu, 15 Oct 2026 05:51:19 GMT",
+    "bytes": 5995
+  }
+]

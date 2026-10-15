@@ -1,0 +1,34 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：Ethereum研究报告-20261015.md
+======================================================================
+
+  [92m✅ 通过[0m [ 2] CoinGecko 价格，美元/ETH · 采用或对照值         报告:      2347.50 
+                                                    CoinGecko direct API; market-final.json: 2347.50 (偏差 0.00%)  |  Coinbase direct API; same fetch round: 2345.83 (偏差 0.07%)
+  [92m✅ 通过[0m [ 3] Coinbase 现货报价，美元/ETH · 采用或对照值        报告:      2345.83 
+                                                    Coinbase direct API; market-final.json: 2345.83 (偏差 0.00%)  |  Kraken direct API; same fetch round: 2346.83 (偏差 0.04%)
+  [92m✅ 通过[0m [13] Ethereum L1 · 美元挂钩稳定币存量              报告:       143.96 
+                                                    DefiLlama stablecoinchains snapshot 2026-10-15 05:50:54 UTC; defillama-competition-extract.json (transcript extract): 143.96 (偏差 0.00%)
+  [92m✅ 通过[0m [14] Solana · DeFi TVL                    报告:         5.93 
+                                                    DefiLlama chains snapshot 2026-10-15 05:50:48 UTC; defillama-competition-extract.json (transcript extract): 5.93 (偏差 0.08%)
+  [92m✅ 通过[0m [29] 悲观 · 累计币价回报                          报告:       -50.22 %
+                                                    Independent Decimal recalculation: 150bn / (S0 * 1.01^5) / P0 - 1: -50.22 (偏差 0.00%)
+  [92m✅ 通过[0m [31] 悲观 · 若净增币2.5%的年化敏感性                  报告:       -10.85 %
+                                                    Independent Decimal recalculation with 2.5% assumed net coin growth: -10.85 (偏差 0.02%)
+  [92m✅ 通过[0m [40] 乐观 · 年净供应变化                          报告:        -0.20 %
+                                                    Declared scenario input, not an external forecast: -0.20 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 7  |  通过: [92m7[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 7,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 7,
+  "fail_items": [],
+  "warn_items": []
+}

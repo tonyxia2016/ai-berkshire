@@ -1,0 +1,44 @@
+[
+  {
+    "company": "神华",
+    "ticker": "01088",
+    "price_hkd": "43.92",
+    "shares": "21689434304",
+    "h1_common_profit_cny": "31054000000",
+    "common_equity_cny": "459227000000",
+    "fx_cny_per_hkd": "0.85688",
+    "h1_annualized_eps_hkd": "3.341791214844018709143236927",
+    "pe_h1_annualized": "13.14265230123001800734204934",
+    "pb": "1.777473556922380344361285377",
+    "h_marked_marketcap_hkd": "952599954631.68",
+    "price_date": "2026-10-14"
+  },
+  {
+    "company": "中煤",
+    "ticker": "01898",
+    "price_hkd": "10.78",
+    "shares": "13258663400",
+    "h1_common_profit_cny": "8191826000",
+    "common_equity_cny": "166401835000",
+    "fx_cny_per_hkd": "0.85688",
+    "h1_annualized_eps_hkd": "1.442085344093776942885478879",
+    "pe_h1_annualized": "7.475285734059156041644439226",
+    "pb": "0.7360043840104873843488564895",
+    "h_marked_marketcap_hkd": "142928391452.00",
+    "price_date": "2026-10-14"
+  },
+  {
+    "company": "兖矿",
+    "ticker": "01171",
+    "price_hkd": "11.75",
+    "shares": "10036852020",
+    "h1_common_profit_cny": "7874971000",
+    "common_equity_cny": "76115376000",
+    "fx_cny_per_hkd": "0.85688",
+    "h1_annualized_eps_hkd": "1.831308163610110321428925887",
+    "pe_h1_annualized": "6.416178463834774756630849815",
+    "pb": "1.327648157016879217676071127",
+    "h_marked_marketcap_hkd": "117933011235.00",
+    "price_date": "2026-10-14"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 78,
+    "label": "新街一井、二井 · 价值与代价",
+    "reported_value": 2029.0,
+    "unit": "",
+    "raw_text": "| 新街一井、二井 | 各规划800万吨/年，项目合计投资约300亿元 | 2029年首采面投产为管理层计划；兑现前先占用现金 |",
+    "line_number": 123,
+    "reason": "2029 is a management target year, not financial amount"
+  },
+  {
+    "id": 85,
+    "label": "2026全年计划 · 已知结果",
+    "reported_value": 1.0,
+    "unit": "",
+    "raw_text": "| 2026全年计划 | 项目资本开支559.87亿元 | H1已完成232.90亿元 | 支持接续，但分红不能只看账面利润 |",
+    "line_number": 195,
+    "reason": "Parser captured H1 as value 1; actual capex232.90 separately verified against original report"
+  }
+]

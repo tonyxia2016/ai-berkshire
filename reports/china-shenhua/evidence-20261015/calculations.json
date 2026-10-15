@@ -1,0 +1,211 @@
+{
+  "metrics": {
+    "h_marketcap_hkd_bn": "144.96152744",
+    "h_marked_total_marketcap_hkd_bn": "930.91052032768",
+    "h_marked_total_marketcap_cny_bn": "797.8089341312283136",
+    "mixed_ah_marketcap_cny_bn": "1038.0013482162288",
+    "a_shares": "18311952304",
+    "h_price_in_cny": "36.7832984",
+    "h_discount_to_a_pct": "26.2859751503006012024048096192384769539078",
+    "share_increase_pct": "9.16482130085265326951224334414696970315900",
+    "h1_revenue_growth_pct": "7.93225517748527844125342742969850019666700",
+    "h1_ifrs_profit_growth_pct": "1.88988778791259268980904258809633178030100",
+    "h1_cas_profit_growth_pct": "4.10397708733640285683210673240764238842800",
+    "h1_reported_eps_growth_pct": "0.69541029207232267037552155771905424200300",
+    "h1_cfo_growth_pct": "6.05102337763119604229314191483170045591200",
+    "h1_gross_margin_pct": "29.9422197340206403363297383515195048009380",
+    "h1_prior_gross_margin_pct": "30.6402239159061240544284386881993809249642",
+    "h1_operating_margin_proxy_pct": "25.4349364628336625505709366318435813201787",
+    "liquid_assets_bn": "124.096",
+    "cas_cash_reconciliation_bn": "135.592",
+    "cash_capex_including_land_bn": "29.579",
+    "annualized_ifrs_parent_eps_hkd": "3.34124531069933344786662721803061306964254",
+    "annualized_cas_parent_eps_hkd": "3.08958134529308172716848716963190102063456",
+    "parent_bvps_hkd": "24.7051919285200425269441556233423125544654",
+    "annualized_revenue_per_share_hkd": "20.3717622411666901639779565984246865904547",
+    "annualized_h1_dps_hkd": "2.28699446920725303960234300249702457352220",
+    "proposed_h1_dividend_total_bn": "21.25564561792",
+    "h1_single_dividend_yield_pct": "2.66425264353128266496079100943269405116752",
+    "trailing_declared_fy25_dividend_yield_pct": "5.46443654438558995568488768261195412535380",
+    "annualized_h1_dividend_yield_pct": "5.32850528706256532992158201886538810233504",
+    "annualized_h1_dividend_yield_after_20pct_tax_pct": "4.26280422965005226393726561509231048186803",
+    "debt_to_assets_pct": "39.8914068810778426367820468555214588650857",
+    "project_capex_plan_completion_pct": "41.5989426116777108971725579152303213245932",
+    "narrow_net_debt_bn": "34.745",
+    "group_cfo_less_cash_capex_bn": "25.085",
+    "group_cash_stress_before_investment_income_bn": "21.415",
+    "group_cash_stress_after_investment_income_bn": "23.532",
+    "group_cash_stress_coverage_low": "1.00749703796085370748473062431345897168622",
+    "group_cash_stress_coverage_high": "1.10709410680806955146069021953510700545040",
+    "h1_payout_ifrs_pct": "68.4473678686159592967089585882656018548335",
+    "h1_payout_cas_pct": "74.0227951172557896569737071217133902141738",
+    "pe_h1_annualized_ifrs": "12.8455099847238409480260191923745733238874",
+    "pe_h1_annualized_cas": "13.8918498020412382657147832143479017934877",
+    "pb": "1.73728664501701405535824330886467912383200",
+    "ps_h1_annualized": "2.10683786173728547254116975990028414792593",
+    "roe_h1_annualized_on_closing_equity_pct": "13.5244661137084709740498707610832986736407",
+    "group_fcf_to_h_marked_equity_annualized_pct": "6.28847307339726316408869411347208677743738",
+    "ev_proxy_cny_bn": "932.1619341312283136",
+    "ev_proxy_to_annualized_sales": "2.46163457449436540366962786128510916984441",
+    "normal_eps_hkd": "3.22784051397501138133569963743538327073086",
+    "normal_pe": "13.2968155688538052266666666666666666666667",
+    "normal_value_at_10pe": "32.2784051397501138133569963743538327073086",
+    "normal_value_at_12pe": "38.7340861677001365760283956492245992487703",
+    "pb_ex_interim_proforma": "1.82160071919961941348385404789759159768994",
+    "value_at_7pct_55bn": "45.5745118776768091949695454484026780300669",
+    "intraday_change_pct": "-2.27686703096539162112932604735883424408010",
+    "base_no_pe_compression_exit_price": "44.2205189200000000000000000000000000000001",
+    "base_no_pe_compression_irr_pct": "6.31706254282463431175288826576611363561650",
+    "bull_year3_profit_bn": "69.457500"
+  },
+  "dcf": [
+    {
+      "normal_owner_cashflow_cny_bn": "45",
+      "discount_rate": "0.09",
+      "normal_cashflow_per_share_hkd": "2.42088038548125853600177472807653745304814",
+      "normal_cashflow_yield_pct": "5.64044824203461914259500169635726340411962",
+      "explicit_years": 10,
+      "terminal_growth": "0",
+      "value_hkd": "28.8535361903832180763387276081033936090247",
+      "implied_first_stage_growth_pct_at_current_price": "6.57662281328400856116411176881580760386450"
+    },
+    {
+      "normal_owner_cashflow_cny_bn": "45",
+      "discount_rate": "0.10",
+      "normal_cashflow_per_share_hkd": "2.42088038548125853600177472807653745304814",
+      "normal_cashflow_yield_pct": "5.64044824203461914259500169635726340411962",
+      "explicit_years": 10,
+      "terminal_growth": "0",
+      "value_hkd": "25.9075420431245706223254632414741083683969",
+      "implied_first_stage_growth_pct_at_current_price": "8.28647516526086111407357108357013277714950"
+    },
+    {
+      "normal_owner_cashflow_cny_bn": "50",
+      "discount_rate": "0.09",
+      "normal_cashflow_per_share_hkd": "2.68986709497917615111308303119615272560905",
+      "normal_cashflow_yield_pct": "6.26716471337179904732777966261918156013292",
+      "explicit_years": 10,
+      "terminal_growth": "0",
+      "value_hkd": "32.0594846559813534181541417867815484544719",
+      "implied_first_stage_growth_pct_at_current_price": "5.10784386812815690198257241534485630703250"
+    },
+    {
+      "normal_owner_cashflow_cny_bn": "50",
+      "discount_rate": "0.10",
+      "normal_cashflow_per_share_hkd": "2.68986709497917615111308303119615272560905",
+      "normal_cashflow_yield_pct": "6.26716471337179904732777966261918156013292",
+      "explicit_years": 10,
+      "terminal_growth": "0",
+      "value_hkd": "28.7861578256939673581394036016378981871077",
+      "implied_first_stage_growth_pct_at_current_price": "6.78270914823162379565997328609243053857450"
+    },
+    {
+      "normal_owner_cashflow_cny_bn": "55",
+      "discount_rate": "0.09",
+      "normal_cashflow_per_share_hkd": "2.95885380447709376622439133431576799816996",
+      "normal_cashflow_yield_pct": "6.89388118470897895206055762888109971614623",
+      "explicit_years": 10,
+      "terminal_growth": "0",
+      "value_hkd": "35.2654331215794887599695559654597032999190",
+      "implied_first_stage_growth_pct_at_current_price": "3.77341069565487480769084242467284645195550"
+    },
+    {
+      "normal_owner_cashflow_cny_bn": "55",
+      "discount_rate": "0.10",
+      "normal_cashflow_per_share_hkd": "2.95885380447709376622439133431576799816996",
+      "normal_cashflow_yield_pct": "6.89388118470897895206055762888109971614623",
+      "explicit_years": 10,
+      "terminal_growth": "0",
+      "value_hkd": "31.6647736082633640939533439618016880058184",
+      "implied_first_stage_growth_pct_at_current_price": "5.41622978012570389969624236785142538665450"
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "乐观",
+      "growth": "0.05",
+      "exit_pe": "13",
+      "payout": "0.70",
+      "year3_eps_hkd": "3.73662887499032255031873929278613555877981",
+      "year3_price_hkd": "48.5761753748741931541436108062197622641375",
+      "dividends_hkd": [
+        "2.37246277777163336528173923351500670398718",
+        "2.49108591666021503354582619519075703918654",
+        "2.61564021249322578522311750495029489114587"
+      ],
+      "cumulative_dividend_hkd": "7.47918890692507418405068293365605863431959",
+      "total_return_pct": "30.6042970218995045158301345290676162592200",
+      "annual_irr_pct": "9.78087639368012847746038171733004133944650",
+      "annual_irr_after_20pct_dividend_tax_pct": "8.66749526480153648368407012540107938132550",
+      "entry_price_for_10pct_irr_hkd": "42.6767017706967181429436826434508249513246"
+    },
+    {
+      "name": "基准",
+      "growth": "0.01",
+      "exit_pe": "11",
+      "payout": "0.70",
+      "year3_eps_hkd": "3.32564730938896820120155267214931281921728",
+      "year3_price_hkd": "36.5821204032786502132170793936424410113901",
+      "dividends_hkd": [
+        "2.28208324338033304660433964366681597240672",
+        "2.30490407581413637707038304010348413213078",
+        "2.32795311657227774084108687050451897345210"
+      ],
+      "cumulative_dividend_hkd": "6.91494043576674716451580955427481907798960",
+      "total_return_pct": "1.34450335285507310748576176122381195102400",
+      "annual_irr_pct": "0.471117217887608016685449946921502661673500",
+      "annual_irr_after_20pct_dividend_tax_pct": "-0.658270402157516819178249583560102039647950",
+      "entry_price_for_10pct_irr_hkd": "33.2132146714775965103131769925602102605546"
+    },
+    {
+      "name": "悲观",
+      "growth": "-0.08",
+      "exit_pe": "8.5",
+      "payout": "0.65",
+      "year3_eps_hkd": "2.51348067414617366250953327927528372831887",
+      "year3_price_hkd": "21.3645857302424761313310328738399116907104",
+      "dividends_hkd": [
+        "1.93024862735705680603874838318635919589705",
+        "1.77582873716849226155564851253145046022529",
+        "1.63376243819501288063119663152893442340727"
+      ],
+      "cumulative_dividend_hkd": "5.33983980272056194822559352724674407952961",
+      "total_return_pct": "-37.7809283947739094138941602956974469472507",
+      "annual_irr_pct": "-15.5214798703164495687301706415623962336134",
+      "annual_irr_after_20pct_dividend_tax_pct": "-16.5615863465236961717022187007301224182628",
+      "entry_price_for_10pct_irr_hkd": "20.5013979101614344364991197692028070979722"
+    }
+  ],
+  "price_bands": [
+    {
+      "price_hkd": "30",
+      "pe_at_normal_profit": "9.29413949360704000000000000000000000000001",
+      "annualized_h1_dividend_yield_pct": "7.62331489735751013200781000832341524507400",
+      "base_annual_irr_pct": "14.0521782825393901681676481453271695415654"
+    },
+    {
+      "price_hkd": "33",
+      "pe_at_normal_profit": "10.2235534429677440000000000000000000000000",
+      "annualized_h1_dividend_yield_pct": "6.93028627032500921091619091665765022279455",
+      "base_annual_irr_pct": "10.2517350149152639645471608755292676354226"
+    },
+    {
+      "price_hkd": "38",
+      "pe_at_normal_profit": "11.7725766919022506666666666666666666666667",
+      "annualized_h1_dividend_yield_pct": "6.01840649791382378842721842762374887769000",
+      "base_annual_irr_pct": "4.87882153835317603442628050425177060612750"
+    },
+    {
+      "price_hkd": "42.92",
+      "pe_at_normal_profit": "13.2968155688538052266666666666666666666667",
+      "annualized_h1_dividend_yield_pct": "5.32850528706256532992158201886538810233504",
+      "base_annual_irr_pct": "0.471117217887608016685449946921502661673500"
+    },
+    {
+      "price_hkd": "48",
+      "pe_at_normal_profit": "14.8706231897712640000000000000000000000000",
+      "annualized_h1_dividend_yield_pct": "4.76457181084844383250488125520213452817125",
+      "base_annual_irr_pct": "-3.40190107971820652297403376990337728950666"
+    }
+  ]
+}
