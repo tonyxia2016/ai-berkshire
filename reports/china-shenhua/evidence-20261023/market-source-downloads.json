@@ -1,0 +1,27 @@
+{
+  "shenhua-202609-shares.pdf": {
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093001029_c.pdf",
+    "bytes": 147399,
+    "ok": true
+  },
+  "shenhua-2026-interim-dividend-update.pdf": {
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092401086.pdf",
+    "bytes": 45510,
+    "ok": true
+  },
+  "chinacoal-2026H1-cn.pdf": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488919.PDF",
+    "bytes": 1375299,
+    "ok": true
+  },
+  "shaanxicoal-2026H1-cn.pdf": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516359.PDF",
+    "bytes": 1459645,
+    "ok": true
+  },
+  "yankuang-2026H1-sina.html": {
+    "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12572743&stockid=600188",
+    "bytes": 1208498,
+    "ok": true
+  }
+}

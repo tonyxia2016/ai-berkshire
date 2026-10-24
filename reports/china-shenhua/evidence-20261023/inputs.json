@@ -1,0 +1,61 @@
+{
+  "research_date": "2026-10-23",
+  "price_hkd": "39.62",
+  "a_price_cny": "50.20",
+  "fx_cny_per_hkd": "0.85696",
+  "shares": "21689434304",
+  "h_shares": "3377482000",
+  "old_shares": "19868519955",
+  "reported_h_marketcap_hkd": "133815840000",
+  "reported_h_marked_total_marketcap_hkd": "859335390000",
+  "q3": {
+    "revenue_mm": "296031", "prior_revenue_mm": "271651",
+    "cas_profit_mm": "44403", "prior_cas_profit_mm": "42780",
+    "ifrs_profit_mm": "47317", "prior_ifrs_profit_mm": "46336",
+    "recurring_cas_profit_mm": "42808", "prior_recurring_cas_profit_mm": "38704",
+    "cfo_mm": "92700", "prior_cfo_mm": "75315",
+    "cash_capex_mm": "47181", "prior_cash_capex_mm": "40047",
+    "cost_mm": "192458", "prior_cost_mm": "176716",
+    "operating_profit_mm": "70397", "prior_operating_profit_mm": "66736",
+    "cash_mm": "133174", "cash_equivalents_mm": "59755",
+    "short_borrowings_mm": "61981", "long_borrowings_mm": "76040",
+    "maturing_noncurrent_liabilities_mm": "23745", "noncurrent_leases_mm": "1087",
+    "cas_parent_equity_mm": "444569", "ifrs_parent_equity_mm": "453033",
+    "nci_equity_mm": "96925", "nci_profit_mm": "10152",
+    "total_assets_mm": "915140", "total_liabilities_mm": "373646",
+    "dividends_payable_mm": "23367", "nci_dividends_paid_mm": "6169",
+    "cash_dividends_profit_interest_paid_mm": "32440",
+    "investment_income_received_mm": "3597",
+    "other_financing_paid_mm": "97624",
+    "interest_expense_mm": "3581", "finance_expense_mm": "2399",
+    "prior_finance_expense_mm": "1601",
+    "contract_liabilities_mm": "11848", "prior_contract_liabilities_mm": "6174",
+    "employee_payable_mm": "17773", "prior_employee_payable_mm": "11659",
+    "reported_eps_cny": "2.062", "prior_reported_eps_cny": "2.019",
+    "single_quarter_revenue_mm": "106693", "prior_single_quarter_revenue_mm": "96228",
+    "single_quarter_cas_profit_mm": "15688", "prior_single_quarter_cas_profit_mm": "15197",
+    "single_quarter_eps_cny": "0.723", "prior_single_quarter_eps_cny": "0.717"
+  },
+  "ifrs_cash": {"cash_equivalents_mm":"59755", "term_deposits_mm":"57947", "restricted_deposits_mm":"15472", "current_borrowings_mm":"79462", "noncurrent_borrowings_mm":"76040", "current_leases_mm":"181", "noncurrent_leases_mm":"1087", "interest_paid_mm":"3929", "lease_interest_mm":"19", "lease_principal_mm":"566", "nci_dividends_paid_mm":"6169", "nci_profit_mm":"10358", "nci_equity_mm":"97692", "associate_dividends_received_mm":"2456", "interest_received_mm":"1141", "same_control_acquisition_paid_mm":"90942", "associate_capital_paid_mm":"9353", "parent_dividends_paid_mm":"22342", "reported_eps_cny":"2.198", "prior_reported_eps_cny":"2.187", "q3_reported_eps_cny":"0.750", "prior_q3_reported_eps_cny":"0.749"},
+  "h1": {"revenue_mm":"189338", "cas_profit_mm":"28715", "ifrs_profit_mm":"31054", "cfo_mm":"54664", "cash_capex_mm":"29579"},
+  "segments_9m": [
+    {"name":"煤炭", "revenue_mm":"211140", "prior_revenue_mm":"198002", "cost_mm":"143842", "pbt_mm":"41524", "prior_pbt_mm":"38943"},
+    {"name":"发电", "revenue_mm":"82410", "prior_revenue_mm":"79297", "cost_mm":"71380", "pbt_mm":"7835", "prior_pbt_mm":"11504"},
+    {"name":"铁路", "revenue_mm":"33948", "prior_revenue_mm":"32765", "cost_mm":"20607", "pbt_mm":"11183", "prior_pbt_mm":"10307"},
+    {"name":"港口", "revenue_mm":"5223", "prior_revenue_mm":"5371", "cost_mm":"2621", "pbt_mm":"2162", "prior_pbt_mm":"2245"},
+    {"name":"航运", "revenue_mm":"7777", "prior_revenue_mm":"6419", "cost_mm":"6930", "pbt_mm":"572", "prior_pbt_mm":"480"},
+    {"name":"煤化工", "revenue_mm":"23739", "prior_revenue_mm":"15821", "cost_mm":"17056", "pbt_mm":"3101", "prior_pbt_mm":"-918"}
+  ],
+  "dividends": {"fy2025_cny":"2.01", "last_final_hkd":"1.185", "current_interim_cny":"0.98", "current_interim_hkd":"1.139", "forward_level_assumption_cny":"1.96"},
+  "valuation_assumptions": {
+    "normal_cas_profit_mm":"60000",
+    "owner_cashflow_mm":["45000","50000","55000"],
+    "discount_rates":["0.09","0.10"],
+    "dcf_years":10, "dcf_growth":"0.01", "terminal_growth":"0",
+    "scenarios":[
+      {"name":"乐观", "growth":"0.05", "exit_pe":"13", "payout":"0.70"},
+      {"name":"基准", "growth":"0.01", "exit_pe":"11", "payout":"0.70"},
+      {"name":"悲观", "growth":"-0.08", "exit_pe":"8.5", "payout":"0.65"}
+    ]
+  }
+}

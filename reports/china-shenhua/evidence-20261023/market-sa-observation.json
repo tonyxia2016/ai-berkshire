@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-10-23T23:16:19.918934+08:00",
+  "statistics_url": "https://stockanalysis.com/quote/hkg/1088/statistics/",
+  "history_ratios_url": "https://stockanalysis.com/quote/hkg/1088/financials/ratios/",
+  "price_hkd": "39.62",
+  "statistics_marketcap_hkd": "1.22T",
+  "ratios_marketcap_hkd_million": "1212881",
+  "shares_outstanding": "21.69B",
+  "shares_yoy_percent": "-2.60",
+  "yearend_PE_single_source_unreconciled": {
+    "2021": "8.20",
+    "2022": "7.51",
+    "2023": "9.27",
+    "2024": "13.83",
+    "2025": "14.49"
+  },
+  "usage": "Direction only; not a comparable historical valuation percentile"
+}

@@ -1,0 +1,318 @@
+======================================================================
+报告数据抽检清单
+文件：/Users/tao/Documents/GitHub/ai-berkshire/reports/china-shenhua/中国神华研究报告-20261023.md
+总提取数据点：151  |  抽样比例：15%  |  抽检数量：23
+随机种子：20261023（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  6     34  CAS扣非归母净利润 · 2025年前三季度重述                   387.04  
+ 12     37  IFRS基本EPS，人民币元 · 2025年前三季度重述                 2.19  
+ 20     46  收入 · 2025Q3重述                              962.28  
+ 37     63  铁路 · 税前利润                                  111.83  
+ 52    111  长协和市场价传导 · 最新证据                              3.11  亿
+ 53    112  发电利用率与价差 · 最新证据                            370.00  
+ 62    194  对价股份及配套增发 · 已知结果                           216.89  亿
+ 65    206  现金及现金等价物 · 金额                              597.55  
+ 67    208  上述非受限现金类资产 · 金额                           1177.02  
+ 68    209  受限存款 · 金额                                  154.72  
+ 76    226  减借款利息、租赁利息及本金 · 金额                         -45.14  
+ 80    272  H股类别市值 · 结果                               1338.16  亿港元
+ 89    291  IFRS最新PB · 结果                                1.63  倍
+ 91    293  CAS年化利润／期末归母权益 · 结果                         13.32  %
+ 94    296  假设未来每股年息人民币1.96元的税前收益率 · 结果                  5.77  %
+ 97    311  中国神华01088 · H1年化PE                          12.82  倍
+103    312  中煤能源01898 · H1普通股PB                          0.65  倍
+105    313  兖矿能源01171 · H1年化PE                           6.20  倍
+104    313  兖矿能源01171 · 股价                              10.31  
+117    338  550亿元 · 要求回报10%的价值                          31.67  
+137    352  悲观 · 税前年化IRR                               -13.10  %
+144    381  HK$33—38 · 假设年息人民币1.96元的税前收益率                6.02  %
+147    383  ≥HK$48 · 正常利润假设PE                           14.87  倍
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 6,
+    "label": "CAS扣非归母净利润 · 2025年前三季度重述",
+    "reported_value": 387.04,
+    "unit": "",
+    "line_number": 34,
+    "raw_text": "| CAS扣非归母净利润 | 428.08 | 387.04 | +10.6% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "IFRS基本EPS，人民币元 · 2025年前三季度重述",
+    "reported_value": 2.187,
+    "unit": "",
+    "line_number": 37,
+    "raw_text": "| IFRS基本EPS，人民币元 | 2.198 | 2.187 | +0.5% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 20,
+    "label": "收入 · 2025Q3重述",
+    "reported_value": 962.28,
+    "unit": "",
+    "line_number": 46,
+    "raw_text": "| 收入 | 1,066.93 | 962.28 | +10.9% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 37,
+    "label": "铁路 · 税前利润",
+    "reported_value": 111.83,
+    "unit": "",
+    "line_number": 63,
+    "raw_text": "| 铁路 | 339.48 | 39.3% | 111.83 | +8.5% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 52,
+    "label": "长协和市场价传导 · 最新证据",
+    "reported_value": 3.114,
+    "unit": "亿",
+    "line_number": 111,
+    "raw_text": "| 长协和市场价传导 | 电煤中长期销量3.114亿吨，占全部煤销量67.6%，均价361元／吨 | 长协提高稳定性，也降低现货上涨传导速度 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 53,
+    "label": "发电利用率与价差 · 最新证据",
+    "reported_value": 370.0,
+    "unit": "",
+    "line_number": 112,
+    "raw_text": "| 发电利用率与价差 | 前三季度售电均价370元／兆瓦时，+0.5%；售电成本含售热337.5元，+8.1% | 容量补偿无法保证利润不受燃煤成本和竞争影响 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 62,
+    "label": "对价股份及配套增发 · 已知结果",
+    "reported_value": 216.89434304,
+    "unit": "亿",
+    "line_number": 194,
+    "raw_text": "| 对价股份及配套增发 | 最新股本216.89434304亿股，较原股本增加9.16% | 利润增长必须覆盖摊薄及融资代价 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 65,
+    "label": "现金及现金等价物 · 金额",
+    "reported_value": 597.55,
+    "unit": "",
+    "line_number": 206,
+    "raw_text": "| 现金及现金等价物 | 597.55 | 现金流量表及IFRS资产负债表 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 67,
+    "label": "上述非受限现金类资产 · 金额",
+    "reported_value": 1177.02,
+    "unit": "",
+    "line_number": 208,
+    "raw_text": "| 上述非受限现金类资产 | 1,177.02 | 两项相加；非全部可直接分红 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 68,
+    "label": "受限存款 · 金额",
+    "reported_value": 154.72,
+    "unit": "",
+    "line_number": 209,
+    "raw_text": "| 受限存款 | 154.72 | 不计入可动用现金 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "减借款利息、租赁利息及本金 · 金额",
+    "reported_value": -45.14,
+    "unit": "",
+    "line_number": 226,
+    "raw_text": "| 减借款利息、租赁利息及本金 | -45.14 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 80,
+    "label": "H股类别市值 · 结果",
+    "reported_value": 1338.16,
+    "unit": "亿港元",
+    "line_number": 272,
+    "raw_text": "| H股类别市值 | 1,338.16亿港元 | 仅H类股份的市值 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 89,
+    "label": "IFRS最新PB · 结果",
+    "reported_value": 1.63,
+    "unit": "倍",
+    "line_number": 291,
+    "raw_text": "| IFRS最新PB | 1.63倍 | 以IFRS归母权益计算 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 91,
+    "label": "CAS年化利润／期末归母权益 · 结果",
+    "reported_value": 13.32,
+    "unit": "%",
+    "line_number": 293,
+    "raw_text": "| CAS年化利润／期末归母权益 | 13.32% | 示意性ROE，非法定加权ROE |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 94,
+    "label": "假设未来每股年息人民币1.96元的税前收益率 · 结果",
+    "reported_value": 5.77,
+    "unit": "%",
+    "line_number": 296,
+    "raw_text": "| 假设未来每股年息人民币1.96元的税前收益率 | 5.77% | 未来水平假设，不是公司承诺 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 97,
+    "label": "中国神华01088 · H1年化PE",
+    "reported_value": 12.82,
+    "unit": "倍",
+    "line_number": 311,
+    "raw_text": "| 中国神华01088 | HK$39.62 | 12.82倍 | 13.69倍 | 1.63倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 103,
+    "label": "中煤能源01898 · H1普通股PB",
+    "reported_value": 0.65,
+    "unit": "倍",
+    "line_number": 312,
+    "raw_text": "| 中煤能源01898 | HK$9.455 | 6.59倍 | 6.29倍 | 0.65倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 105,
+    "label": "兖矿能源01171 · H1年化PE",
+    "reported_value": 6.2,
+    "unit": "倍",
+    "line_number": 313,
+    "raw_text": "| 兖矿能源01171 | HK$10.31 | 6.20倍 | 9.62倍 | 1.15倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 104,
+    "label": "兖矿能源01171 · 股价",
+    "reported_value": 10.31,
+    "unit": "",
+    "line_number": 313,
+    "raw_text": "| 兖矿能源01171 | HK$10.31 | 6.20倍 | 9.62倍 | 1.15倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 117,
+    "label": "550亿元 · 要求回报10%的价值",
+    "reported_value": 31.67,
+    "unit": "",
+    "line_number": 338,
+    "raw_text": "| 550亿元 | HK$35.27 | HK$31.67 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 137,
+    "label": "悲观 · 税前年化IRR",
+    "reported_value": -13.1,
+    "unit": "%",
+    "line_number": 352,
+    "raw_text": "| 悲观 | -8% | 8.5倍 | HK$21.37 | HK$5.34 | -32.59% | -13.10% | -14.20% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 144,
+    "label": "HK$33—38 · 假设年息人民币1.96元的税前收益率",
+    "reported_value": 6.02,
+    "unit": "%",
+    "line_number": 381,
+    "raw_text": "| HK$33—38 | 10.22—11.77倍 | 6.02%—6.93% | 接近合理价值，较高回报要求者继续等待 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 147,
+    "label": "≥HK$48 · 正常利润假设PE",
+    "reported_value": 14.87,
+    "unit": "倍",
+    "line_number": 383,
+    "raw_text": "| ≥HK$48 | ≥14.87倍 | ≤4.76% | 若正常现金预期未上修，减仓理由增强 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

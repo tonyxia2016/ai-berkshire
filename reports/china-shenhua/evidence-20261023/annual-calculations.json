@@ -1,0 +1,72 @@
+[
+  {
+    "year": 2021,
+    "cas_revenue_2025_report_basis": 335969,
+    "cas_cost_2025_report_basis": 224389,
+    "cas_gross_profit": 111580,
+    "cas_operating_profit": 78079,
+    "cas_parent_profit": 50127,
+    "ifrs_parent_profit_2025_report_basis": 51314,
+    "cfo_historical_report_basis": 94350,
+    "cash_capex_historical_report_basis": 23638,
+    "group_cfo_less_capex": 70712,
+    "gross_margin_pct": "33.21139748012465435799136230",
+    "operating_margin_pct": "23.23994178034282924912715161"
+  },
+  {
+    "year": 2022,
+    "cas_revenue_2025_report_basis": 346834,
+    "cas_cost_2025_report_basis": 210736,
+    "cas_gross_profit": 136098,
+    "cas_operating_profit": 98468,
+    "cas_parent_profit": 69709,
+    "ifrs_parent_profit_2025_report_basis": 73090,
+    "cfo_historical_report_basis": 109734,
+    "cash_capex_historical_report_basis": 28684,
+    "group_cfo_less_capex": 81050,
+    "gross_margin_pct": "39.24009756828915273589094495",
+    "operating_margin_pct": "28.39052688029431947271605437"
+  },
+  {
+    "year": 2023,
+    "cas_revenue_2025_report_basis": 345951,
+    "cas_cost_2025_report_basis": 221198,
+    "cas_gross_profit": 124753,
+    "cas_operating_profit": 89281,
+    "cas_parent_profit": 57756,
+    "ifrs_parent_profit_2025_report_basis": 62699,
+    "cfo_historical_report_basis": 89687,
+    "cash_capex_historical_report_basis": 37084,
+    "group_cfo_less_capex": 52603,
+    "gross_margin_pct": "36.06088723547554422447109562",
+    "operating_margin_pct": "25.80741203233984003514948649"
+  },
+  {
+    "year": 2024,
+    "cas_revenue_2025_report_basis": 339788,
+    "cas_cost_2025_report_basis": 223923,
+    "cas_gross_profit": 115865,
+    "cas_operating_profit": 87082,
+    "cas_parent_profit": 55805,
+    "ifrs_parent_profit_2025_report_basis": 59544,
+    "cfo_historical_report_basis": 91086,
+    "cash_capex_historical_report_basis": 37708,
+    "group_cfo_less_capex": 53378,
+    "gross_margin_pct": "34.09920303247907518805843644",
+    "operating_margin_pct": "25.62833296055187352113670877"
+  },
+  {
+    "year": 2025,
+    "cas_revenue_2025_report_basis": 294916,
+    "cas_cost_2025_report_basis": 191465,
+    "cas_gross_profit": 103451,
+    "cas_operating_profit": 75532,
+    "cas_parent_profit": 52849,
+    "ifrs_parent_profit_2025_report_basis": 54218,
+    "cfo_historical_report_basis": 75059,
+    "cash_capex_historical_report_basis": 48398,
+    "group_cfo_less_capex": 26661,
+    "gross_margin_pct": "35.07812394037624272674253008",
+    "operating_margin_pct": "25.61136052299637862984714292"
+  }
+]

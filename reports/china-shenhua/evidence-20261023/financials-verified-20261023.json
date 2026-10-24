@@ -1,0 +1,500 @@
+{
+  "research_cutoff": "2026-10-23 Asia/Shanghai, after HKEX 20:22 disclosure",
+  "units": "RMB million unless marked EPS or shares",
+  "current_9m_and_september": {
+    "revenue": 296031,
+    "revenue_prior_restated": 271651,
+    "cas_parent_profit": 44403,
+    "cas_parent_profit_prior_restated": 42780,
+    "cas_deducted_parent_profit": 42808,
+    "cas_deducted_parent_profit_prior": 38704,
+    "cas_eps": 2.062,
+    "cas_eps_prior_restated": 2.019,
+    "ifrs_parent_profit": 47317,
+    "ifrs_parent_profit_prior_restated": 46336,
+    "ifrs_eps": 2.198,
+    "ifrs_eps_prior_restated": 2.187,
+    "cas_cost_of_sales": 192458,
+    "cas_operating_profit": 70397,
+    "ifrs_cost_of_sales": 209285,
+    "ifrs_gross_profit": 86746,
+    "ifrs_profit_before_tax": 72721,
+    "ifrs_group_net_profit": 57675,
+    "cas_profit_before_tax": 69609,
+    "cas_group_net_profit": 54555,
+    "cfo": 92700,
+    "cfo_prior_restated": 75315,
+    "cash_capex": 47181,
+    "cash_capex_ppe": 44969,
+    "cash_capex_rou": 2212,
+    "cash_capex_prior_restated": 40047,
+    "cash_equivalents": 59755,
+    "deposits_over_3m": 57947,
+    "restricted_cash": 15472,
+    "cas_monetary_funds": 133174,
+    "current_fvtpl": 0,
+    "current_borrowings": 79462,
+    "noncurrent_borrowings": 76040,
+    "current_lease_liabilities": 181,
+    "noncurrent_lease_liabilities": 1087,
+    "narrow_net_debt": 39068,
+    "cas_parent_equity": 444569,
+    "ifrs_parent_equity": 453033,
+    "cas_total_assets": 915140,
+    "ifrs_total_assets": 924371,
+    "total_liabilities": 373646,
+    "cas_dividends_payable": 23367,
+    "borrowings_interest_paid": 3929,
+    "lease_interest_paid": 19,
+    "lease_principal_paid": 566,
+    "nci_dividends_paid": 6169,
+    "parent_dividends_paid": 22342,
+    "common_control_acquisition_cash": 90942,
+    "associate_investment_cash": 9353,
+    "associate_dividends_received": 2456,
+    "interest_received": 1141,
+    "factoring_repayment": 6097,
+    "factoring_and_bill_discount_proceeds": 7287,
+    "total_shares": 21689434304,
+    "h_shares": 3377482000,
+    "a_shares": 18311952304
+  },
+  "annual": [
+    {
+      "year": 2021,
+      "cas_revenue_2025_report_basis": 335969,
+      "cas_cost_2025_report_basis": 224389,
+      "cas_gross_profit": 111580,
+      "cas_gross_margin_pct": "33.21139748012465435799136230",
+      "cas_operating_profit": 78079,
+      "cas_operating_margin_pct": "23.23994178034282924912715161",
+      "cas_parent_profit": 50127,
+      "ifrs_parent_profit_2025_report_basis": 51314,
+      "cfo_historical_report_basis": 94350,
+      "cash_capex_historical_report_basis": 23638,
+      "group_cfo_less_capex": 70712,
+      "cash_equivalents": 156706
+    },
+    {
+      "year": 2022,
+      "cas_revenue_2025_report_basis": 346834,
+      "cas_cost_2025_report_basis": 210736,
+      "cas_gross_profit": 136098,
+      "cas_gross_margin_pct": "39.24009756828915273589094495",
+      "cas_operating_profit": 98468,
+      "cas_operating_margin_pct": "28.39052688029431947271605437",
+      "cas_parent_profit": 69709,
+      "ifrs_parent_profit_2025_report_basis": 73090,
+      "cfo_historical_report_basis": 109734,
+      "cash_capex_historical_report_basis": 28684,
+      "group_cfo_less_capex": 81050,
+      "cash_equivalents": 131458
+    },
+    {
+      "year": 2023,
+      "cas_revenue_2025_report_basis": 345951,
+      "cas_cost_2025_report_basis": 221198,
+      "cas_gross_profit": 124753,
+      "cas_gross_margin_pct": "36.06088723547554422447109562",
+      "cas_operating_profit": 89281,
+      "cas_operating_margin_pct": "25.80741203233984003514948649",
+      "cas_parent_profit": 57756,
+      "ifrs_parent_profit_2025_report_basis": 62699,
+      "cfo_historical_report_basis": 89687,
+      "cash_capex_historical_report_basis": 37084,
+      "group_cfo_less_capex": 52603,
+      "cash_equivalents": 108174
+    },
+    {
+      "year": 2024,
+      "cas_revenue_2025_report_basis": 339788,
+      "cas_cost_2025_report_basis": 223923,
+      "cas_gross_profit": 115865,
+      "cas_gross_margin_pct": "34.09920303247907518805843644",
+      "cas_operating_profit": 87082,
+      "cas_operating_margin_pct": "25.62833296055187352113670877",
+      "cas_parent_profit": 55805,
+      "ifrs_parent_profit_2025_report_basis": 59544,
+      "cfo_historical_report_basis": 91086,
+      "cash_capex_historical_report_basis": 37708,
+      "group_cfo_less_capex": 53378,
+      "cash_equivalents": 66413
+    },
+    {
+      "year": 2025,
+      "cas_revenue_2025_report_basis": 294916,
+      "cas_cost_2025_report_basis": 191465,
+      "cas_gross_profit": 103451,
+      "cas_gross_margin_pct": "35.07812394037624272674253008",
+      "cas_operating_profit": 75532,
+      "cas_operating_margin_pct": "25.61136052299637862984714292",
+      "cas_parent_profit": 52849,
+      "ifrs_parent_profit_2025_report_basis": 54218,
+      "cfo_historical_report_basis": 75059,
+      "cash_capex_historical_report_basis": 48398,
+      "group_cfo_less_capex": 26661,
+      "cash_equivalents": 23288
+    }
+  ],
+  "cross_validation": [
+    {
+      "field": "9M revenue CAS",
+      "primary": 296031,
+      "secondary": 296031.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M parent profit CAS",
+      "primary": 44403,
+      "secondary": 44403.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M operating profit CAS",
+      "primary": 70397,
+      "secondary": 70397.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M cost of sales CAS",
+      "primary": 192458,
+      "secondary": 192458.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M deducted parent profit CAS",
+      "primary": 42808,
+      "secondary": 42808.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M CFO",
+      "primary": 92700,
+      "secondary": 92700.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M cash capex",
+      "primary": 47181,
+      "secondary": 47181.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September cash equivalents",
+      "primary": 59755,
+      "secondary": 59755.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September monetary funds CAS",
+      "primary": 133174,
+      "secondary": 133174.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September dividends payable",
+      "primary": 23367,
+      "secondary": 23367.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September parent equity CAS",
+      "primary": 444569,
+      "secondary": 444569.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September total liabilities",
+      "primary": 373646,
+      "secondary": 373646.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M NCI cash dividends",
+      "primary": 6169,
+      "secondary": 6169.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M IFRS profit",
+      "primary": 47317,
+      "secondary": 47317.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M IFRS gross profit",
+      "primary": 86746,
+      "secondary": 86746.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September IFRS equity",
+      "primary": 453033,
+      "secondary": 453033.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "9M CAS EPS",
+      "primary": 2.062,
+      "secondary": 2.062,
+      "error_pct": "0",
+      "unit": "RMB/share"
+    },
+    {
+      "field": "9M IFRS EPS",
+      "primary": 2.198,
+      "secondary": 2.198,
+      "error_pct": "0",
+      "unit": "RMB/share"
+    },
+    {
+      "field": "Total shares",
+      "primary": 21689434304,
+      "secondary": 21689434304,
+      "error_pct": "0",
+      "unit": "shares"
+    },
+    {
+      "field": "H shares",
+      "primary": 3377482000,
+      "secondary": 3377482000,
+      "error_pct": "0",
+      "unit": "shares"
+    },
+    {
+      "field": "September deposits over three months",
+      "primary": 57947,
+      "secondary": 57947.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September restricted deposits",
+      "primary": 15472,
+      "secondary": 15472.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September current borrowings",
+      "primary": 79462,
+      "secondary": 79462.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September noncurrent borrowings",
+      "primary": 76040,
+      "secondary": 76040.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September current lease",
+      "primary": 181,
+      "secondary": 181.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "September noncurrent lease",
+      "primary": 1087,
+      "secondary": 1087.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2021 CFO historical scope",
+      "primary": 94350,
+      "secondary": 94350.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2021 cash capex historical scope",
+      "primary": 23638,
+      "secondary": 23638.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2021 cash equivalents historical scope",
+      "primary": 156706,
+      "secondary": 156706.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2021 CAS profit restatement difference",
+      "primary": 50127,
+      "secondary": 50084.0,
+      "error_pct": "0.08578211343188301713647335767",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2022 CFO historical scope",
+      "primary": 109734,
+      "secondary": 109734.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2022 cash capex historical scope",
+      "primary": 28684,
+      "secondary": 28684.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2022 cash equivalents historical scope",
+      "primary": 131458,
+      "secondary": 131458.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2022 CAS profit restatement difference",
+      "primary": 69709,
+      "secondary": 69648.0,
+      "error_pct": "0.08750663472435410061828458305",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2023 CFO historical scope",
+      "primary": 89687,
+      "secondary": 89687.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2023 cash capex historical scope",
+      "primary": 37084,
+      "secondary": 37084.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2023 cash equivalents historical scope",
+      "primary": 108174,
+      "secondary": 108174.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2023 CAS profit restatement difference",
+      "primary": 57756,
+      "secondary": 59694.0,
+      "error_pct": "3.355495532931643465613962186",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2024 CFO historical scope",
+      "primary": 91086,
+      "secondary": 91086.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2024 cash capex historical scope",
+      "primary": 37708,
+      "secondary": 37708.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2024 cash equivalents historical scope",
+      "primary": 66413,
+      "secondary": 66413.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2024 CAS profit restatement difference",
+      "primary": 55805,
+      "secondary": 55805.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2025 CFO historical scope",
+      "primary": 75059,
+      "secondary": 75059.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2025 cash capex historical scope",
+      "primary": 48398,
+      "secondary": 48398.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2025 cash equivalents historical scope",
+      "primary": 23288,
+      "secondary": 23288.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    },
+    {
+      "field": "FY2025 CAS profit restatement difference",
+      "primary": 52849,
+      "secondary": 52849.0,
+      "error_pct": "0.0",
+      "unit": "RMB million"
+    }
+  ],
+  "calculation_expressions": {
+    "IFRS_9M_profit_growth_pct": "(47317/46336-1)*100",
+    "CAS_9M_profit_growth_pct": "(44403/42780-1)*100",
+    "Q3_CFO": "92700-54664",
+    "Q3_cash_capex": "47181-29579",
+    "Q3_group_FCF": "92700-54664-47181+29579",
+    "Q3_CAS_profit": "44403-28715",
+    "Q3_IFRS_profit": "47317-31054",
+    "Q3_IFRS_profit_growth_pct": "((47317-31054)/(46336-30478)-1)*100",
+    "CAS_9M_gross_profit": "296031-192458",
+    "CAS_9M_gross_margin_pct": "(296031-192458)/296031*100",
+    "CAS_9M_operating_margin_pct": "70397/296031*100",
+    "IFRS_9M_gross_margin_pct": "86746/296031*100",
+    "total_borrowings": "79462+76040",
+    "unrestricted_cash_and_deposits": "59755+57947",
+    "narrow_net_debt": "79462+76040+181+1087-59755-57947",
+    "narrow_net_debt_vs_H1": "39068-34745",
+    "cash_composition_check": "59755+57947+15472",
+    "9M_group_FCF": "92700-44969-2212",
+    "9M_cash_proxy_after_interest_leases_NCI": "92700-47181-3929-19-566-6169",
+    "9M_cash_proxy_including_associate_dividends_and_interest": "92700-47181-3929-19-566-6169+2456+1141",
+    "annualized_CAS_profit": "44403*4/3",
+    "annualized_IFRS_profit": "47317*4/3",
+    "annualized_CAS_EPS_current_shares": "44403*4/3/21689.434304",
+    "annualized_IFRS_EPS_current_shares": "47317*4/3/21689.434304",
+    "interim_dividend_total": "21689434304*0.98/1000000",
+    "2025_CAS_profit_growth_pct": "(52849/55805-1)*100",
+    "2025_CFO_to_group_net_profit": "75059/62783",
+    "9M_CFO_to_group_net_profit": "92700/54555",
+    "cash_pressure_vs_H1": "(92700-47181)-(54664-29579)"
+  },
+  "limitations": [
+    "2021-2025 income uses FY2025 restatement boundary; CFO/capex uses respective reporting-date boundaries and is not a consistent-scope growth series.",
+    "Current narrow net debt excludes undisclosed factoring balance, long-term payables, mining-right obligations; not a complete economic debt measure.",
+    "IFRS cash-flow breakdown excluding aggregate cash capex/CFO/NCI dividends has primary-source verification only.",
+    "Restatement conflicts are retained and explained, not averaged."
+  ]
+}
